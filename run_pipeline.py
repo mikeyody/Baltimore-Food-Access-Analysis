@@ -9,6 +9,8 @@ Steps:
     load       run sql/01-04 to build data/baltimore_food_access.duckdb
     analyze    run sql/05-09 + statistics; write reports/analysis_results.md
     score      need score + sensitivity check; write reports/need_score.md
+    export     Power BI CSVs + GeoJSON to outputs/powerbi/
+    visualize  charts to outputs/charts/ and the interactive outputs/map.html
     test       run the pytest data-quality checks (stops the pipeline on failure)
 """
 
@@ -17,7 +19,7 @@ import sys
 
 import pytest
 
-from src import analyze, config, download, inventory, load, need_score
+from src import analyze, config, download, export, inventory, load, need_score, visualize
 
 
 def _download() -> None:
@@ -38,6 +40,8 @@ STEPS = {
     "load": load.main,
     "analyze": analyze.main,
     "score": need_score.main,
+    "export": export.main,
+    "visualize": visualize.main,
     "test": _test,
 }
 
