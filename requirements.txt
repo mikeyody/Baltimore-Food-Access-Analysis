@@ -1,0 +1,27 @@
+# Core data handling
+pandas>=2.2
+openpyxl>=3.1          # reads the USDA Excel workbooks
+pyarrow>=16.0
+
+# Geospatial
+geopandas>=1.0
+shapely>=2.0
+pyogrio>=0.9
+
+# Downloading
+requests>=2.32
+python-dotenv>=1.0     # loads CENSUS_API_KEY from .env
+
+# Database
+duckdb>=1.1
+
+# Statistics (Phase 3)
+statsmodels>=0.14
+scipy>=1.13
+
+# Visualization (Phase 5)
+matplotlib>=3.9
+folium>=0.17
+
+# Testing
+pytest>=8.0

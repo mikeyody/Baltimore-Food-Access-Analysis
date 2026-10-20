@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets (Census API key lives here)
+.env
+
+# Raw downloads are large and reproducible: run `python run_pipeline.py download`
+data/raw/*
+!data/raw/.gitkeep
+
+# DuckDB database file is rebuilt by the pipeline
+data/*.duckdb
+data/*.duckdb.wal
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
