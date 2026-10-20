@@ -406,3 +406,35 @@ SELECT
     coalesce(TRY_CAST(latitude AS DOUBLE),  TRY_CAST(geom_y AS DOUBLE)) AS lat,
     coalesce(TRY_CAST(longitude AS DOUBLE), TRY_CAST(geom_x AS DOUBLE)) AS lon
 FROM staging.city_grocery_stores;
+
+-- =============================================================================
+-- 11. Neighborhood names for each tract
+-- =============================================================================
+-- Tracts and the city's 279 Neighborhood Statistical Areas don't line up, so
+-- each tract gets every neighborhood that covers at least 20% of its area
+-- (largest first). Used only for labels in reports and maps.
+CREATE OR REPLACE TABLE clean.tract_neighborhoods AS
+WITH nbhd AS (
+    SELECT Name AS neighborhood,
+           ST_Transform(ST_MakeValid(geom), 'EPSG:4326', 'EPSG:2248', always_xy := true) AS geom_ft
+    FROM staging.neighborhoods
+),
+tract_overlap AS (
+    SELECT t.geoid, n.neighborhood,
+           ST_Area(ST_Intersection(t.geom_ft, n.geom_ft)) / ST_Area(t.geom_ft) AS share_of_tract
+    FROM clean.tracts t
+    JOIN nbhd n ON ST_Intersects(t.geom_ft, n.geom_ft)
+)
+SELECT
+    geoid,
+    arg_max(neighborhood, share_of_tract)                                          AS primary_neighborhood,
+    string_agg(neighborhood, ' / ' ORDER BY share_of_tract DESC)
+        FILTER (WHERE share_of_tract >= 0.20)                                      AS neighborhoods
+FROM tract_overlap
+GROUP BY geoid;
+
+INSERT INTO clean.dq_log
+SELECT 'tract_neighborhoods', 'flagged', (SELECT count(*) FROM clean.tracts),
+       (SELECT count(*) FROM clean.tracts t ANTI JOIN clean.tract_neighborhoods n USING (geoid)),
+       count(*), 'Tracts that overlap no city neighborhood polygon (should be 0)'
+FROM clean.tract_neighborhoods;

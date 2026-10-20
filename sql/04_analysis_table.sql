@@ -13,6 +13,8 @@ SELECT
     -- Identity
     t.geoid,
     t.tract_name,
+    -- Neighborhoods covering >= 20% of the tract (falls back to the largest one)
+    coalesce(nb.neighborhoods, nb.primary_neighborhood) AS neighborhood,
     round(t.land_area_m2 / 2589988.11, 4)              AS land_area_sq_mi,
 
     -- People (ACS 2020-2024)
@@ -76,6 +78,7 @@ LEFT JOIN clean.tract_food_access f USING (geoid)
 LEFT JOIN clean.lram_2020         l USING (geoid)
 LEFT JOIN clean.sram_2025         s USING (geoid)
 LEFT JOIN clean.tract_centroids   c USING (geoid)
+LEFT JOIN clean.tract_neighborhoods nb USING (geoid)
 ORDER BY t.geoid;
 
 -- Full-service stores within reach of the city, for maps and Power BI.

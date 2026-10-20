@@ -124,18 +124,18 @@ Method: ordinary least squares regression across 195 tracts with complete data, 
 
 SQL: `sql/08_q5_top_need_tracts.sql`. Combined need = average of the tract's percentile ranks (0-1) for distance to a full-service store, health burden (diabetes, obesity, high blood pressure), poverty rate and share of households without a car. Phase 4 replaces this with a configurable weighted score and a sensitivity check.
 
-| need_rank | geoid | tract_name | total_population | dist_nearest_full_service_mi | pct_poverty | pct_households_no_vehicle | diabetes_pct | combined_need |
+| need_rank | geoid | neighborhood | total_population | dist_nearest_full_service_mi | pct_poverty | pct_households_no_vehicle | diabetes_pct | combined_need |
 |---|---|---|---|---|---|---|---|---|
-| 1 | 24510280500 | Census Tract 2805 | 2,492 | 0.82 | 66.52 | 81.33 | 29.80 | 0.96 |
-| 2 | 24510100200 | Census Tract 1002 | 2,796 | 0.90 | 47.78 | 75.71 | 24.40 | 0.95 |
-| 3 | 24510080500 | Census Tract 805 | 1,543 | 0.88 | 51.91 | 59.50 | 27.40 | 0.95 |
-| 4 | 24510250204 | Census Tract 2502.04 | 4,306 | 0.81 | 48.95 | 64.22 | 24.20 | 0.93 |
-| 5 | 24510160300 | Census Tract 1603 | 1,628 | 0.70 | 41.39 | 72.90 | 25.40 | 0.90 |
-| 6 | 24510100100 | Census Tract 1001 | 1,404 | 0.96 | 34.24 | 60.05 | 22.30 | 0.89 |
-| 7 | 24510271801 | Census Tract 2718.01 | 2,537 | 0.76 | 35.93 | 58.58 | 26.40 | 0.89 |
-| 8 | 24510160500 | Census Tract 1605 | 2,942 | 1.03 | 31.75 | 38.34 | 25.10 | 0.86 |
-| 9 | 24510090700 | Census Tract 907 | 2,628 | 0.81 | 35.65 | 37.76 | 26.10 | 0.84 |
-| 10 | 24510160400 | Census Tract 1604 | 1,481 | 0.90 | 26.87 | 56.94 | 20.60 | 0.84 |
+| 1 | 24510280500 | Dunbar-Broadway / Oldtown | 2,492 | 0.82 | 66.52 | 81.33 | 29.80 | 0.96 |
+| 2 | 24510100200 | Oldtown | 2,796 | 0.90 | 47.78 | 75.71 | 24.40 | 0.95 |
+| 3 | 24510080500 | South Clifton Park / Darley Park | 1,543 | 0.88 | 51.91 | 59.50 | 27.40 | 0.95 |
+| 4 | 24510250204 | Cherry Hill | 4,306 | 0.81 | 48.95 | 64.22 | 24.20 | 0.93 |
+| 5 | 24510160300 | Harlem Park / Sandtown-Winchester | 1,628 | 0.70 | 41.39 | 72.90 | 25.40 | 0.90 |
+| 6 | 24510100100 | Johnston Square | 1,404 | 0.96 | 34.24 | 60.05 | 22.30 | 0.89 |
+| 7 | 24510271801 | Arlington / Woodmere | 2,537 | 0.76 | 35.93 | 58.58 | 26.40 | 0.89 |
+| 8 | 24510160500 | Bridgeview/Greenlawn | 2,942 | 1.03 | 31.75 | 38.34 | 25.10 | 0.86 |
+| 9 | 24510090700 | Coldstream Homestead Montebello | 2,628 | 0.81 | 35.65 | 37.76 | 26.10 | 0.84 |
+| 10 | 24510160400 | Midtown-Edmondson / Harlem Park | 1,481 | 0.90 | 26.87 | 56.94 | 20.60 | 0.84 |
 
 Excluded from ranking (2 tracts):
 

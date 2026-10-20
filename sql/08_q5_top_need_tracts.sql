@@ -37,7 +37,7 @@ WITH eligible AS (
 ),
 ranked AS (
     SELECT
-        geoid, tract_name, total_population, dist_nearest_full_service_mi, nearest_full_service_store,
+        geoid, tract_name, neighborhood, total_population, dist_nearest_full_service_mi, nearest_full_service_store,
         pct_poverty, pct_households_no_vehicle, diabetes_pct, obesity_pct, high_bp_pct,
         median_household_income,
         percent_rank() OVER (ORDER BY dist_nearest_full_service_mi)  AS access_pctile,
@@ -52,6 +52,7 @@ SELECT
     rank() OVER (ORDER BY (access_pctile + health_pctile + poverty_pctile + no_car_pctile) DESC) AS need_rank,
     geoid,
     tract_name,
+    neighborhood,
     total_population,
     round(dist_nearest_full_service_mi, 2)      AS dist_nearest_full_service_mi,
     nearest_full_service_store,

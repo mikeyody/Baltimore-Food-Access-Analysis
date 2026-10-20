@@ -1,0 +1,5 @@
+scenario,standardization,weights,top10_overlap_with_default,entered_top10,left_top10,spearman_rank_correlation
+Equal weights,zscore,"food_access 0.20, health 0.20, poverty 0.20, no_car 0.20, seniors 0.20",8,"24510170200, 24510200200","24510080600, 24510200702",0.979
+Health-focused,zscore,"food_access 0.20, health 0.40, poverty 0.20, no_car 0.10, seniors 0.10",7,"24510090700, 24510170200, 24510200200","24510080600, 24510100100, 24510200702",0.981
+Mobility-focused,zscore,"food_access 0.35, health 0.10, poverty 0.10, no_car 0.30, seniors 0.15",8,"24510160400, 24510280301","24510080600, 24510160500",0.972
+"Default weights, minmax scaling",minmax,"food_access 0.30, health 0.25, poverty 0.20, no_car 0.15, seniors 0.10",10,-,-,0.998

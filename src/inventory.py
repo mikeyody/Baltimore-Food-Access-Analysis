@@ -112,6 +112,11 @@ def _open_baltimore(name: str) -> tuple[int, int, int]:
     return len(df), len(df), df.shape[1]
 
 
+def load_neighborhoods() -> tuple[int, int, int]:
+    gdf = gpd.read_file(config.RAW_DIR / "open_baltimore" / "neighborhoods.geojson")
+    return len(gdf), len(gdf), gdf.shape[1]
+
+
 SOURCES = [
     Source(
         key="usda_lram_2019",
@@ -275,6 +280,18 @@ SOURCES = [
         limitations=["City says it 'may not be a complete list'. Used only to cross-check the "
                      "SNAP-based full-service store list."],
         loader=lambda: _open_baltimore("city_grocery_stores"),
+    ),
+    Source(
+        key="baltimore_neighborhoods",
+        name="Baltimore City Neighborhood Statistical Area (NSA) boundaries",
+        publisher="City of Baltimore (CityView GIS)",
+        url=config.NEIGHBORHOODS_LAYER,
+        release="Live layer; service updated 2026",
+        tract_vintage="Neighborhood polygons (not tracts)",
+        key_columns=["Name", "geometry"],
+        limitations=["Neighborhoods don't nest inside tracts; used only to label each tract with "
+                     "the neighborhoods covering >= 20% of its area."],
+        loader=load_neighborhoods,
     ),
 ]
 

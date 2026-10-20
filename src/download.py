@@ -322,6 +322,34 @@ def download_open_baltimore(session: requests.Session, force: bool = False) -> N
             log.warning("Optional source failed, continuing without it: %s", exc)
 
 
+def download_neighborhoods(session: requests.Session, force: bool = False) -> None:
+    """Baltimore Neighborhood Statistical Area polygons as GeoJSON (for names only)."""
+    source = "baltimore_neighborhoods"
+    dest = config.RAW_DIR / "open_baltimore" / "neighborhoods.geojson"
+    if _skip(dest, force, source):
+        return
+    features, offset = [], 0
+    while True:
+        params = {"where": "1=1", "outFields": "Name", "outSR": 4326, "f": "geojson",
+                  "orderByFields": "OBJECTID", "resultOffset": offset, "resultRecordCount": 1000}
+        resp = session.get(f"{config.NEIGHBORHOODS_LAYER}/query", params=params,
+                           timeout=config.HTTP_TIMEOUT_SECONDS)
+        _check_response(resp, source)
+        page = resp.json()
+        if "error" in page:
+            raise DownloadError(f"[{source}] ArcGIS error: {page['error']}")
+        features += page.get("features", [])
+        if len(page.get("features", [])) < 1000:
+            break
+        offset += 1000
+    if not features:
+        raise DownloadError(f"[{source}] no neighborhood polygons returned")
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text(json.dumps({"type": "FeatureCollection", "features": features}))
+    log.info("[%s] saved %s (%d neighborhoods)", source, dest.name, len(features))
+    _record(source, config.NEIGHBORHOODS_LAYER, dest, {"rows": len(features)})
+
+
 SOURCES = {
     "usda": download_usda_atlas,
     "places": download_places,
@@ -329,6 +357,7 @@ SOURCES = {
     "snap": download_snap_retailers,
     "tiger": download_tiger,
     "open_baltimore": download_open_baltimore,
+    "neighborhoods": download_neighborhoods,
 }
 
 

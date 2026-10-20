@@ -8,6 +8,7 @@ Steps:
     inventory  write reports/data_sources.md from the downloaded files
     load       run sql/01-04 to build data/baltimore_food_access.duckdb
     analyze    run sql/05-09 + statistics; write reports/analysis_results.md
+    score      need score + sensitivity check; write reports/need_score.md
     test       run the pytest data-quality checks (stops the pipeline on failure)
 """
 
@@ -16,7 +17,7 @@ import sys
 
 import pytest
 
-from src import analyze, config, download, inventory, load
+from src import analyze, config, download, inventory, load, need_score
 
 
 def _download() -> None:
@@ -36,6 +37,7 @@ STEPS = {
     "inventory": inventory.main,
     "load": load.main,
     "analyze": analyze.main,
+    "score": need_score.main,
     "test": _test,
 }
 

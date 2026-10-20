@@ -60,3 +60,7 @@ SELECT * FROM read_csv('{raw}/open_baltimore/farmers_markets.csv', all_varchar =
 
 CREATE OR REPLACE TABLE staging.city_grocery_stores AS
 SELECT * FROM read_csv('{raw}/open_baltimore/city_grocery_stores.csv', all_varchar = true, header = true);
+
+-- 11. Baltimore Neighborhood Statistical Area polygons (names for tracts).
+CREATE OR REPLACE TABLE staging.neighborhoods AS
+SELECT * FROM ST_Read('{raw}/open_baltimore/neighborhoods.geojson');

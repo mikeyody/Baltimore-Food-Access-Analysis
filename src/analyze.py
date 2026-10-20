@@ -263,7 +263,7 @@ def write_report(con, tests: pd.DataFrame, reg: pd.DataFrame, pcor: pd.DataFrame
     q2b = q("SELECT * FROM results.q2_distance_bands")
     q3 = q("SELECT comparison, tract_group, tracts, residents, diabetes_mean, obesity_mean, "
            "high_bp_mean, chd_mean FROM results.q3_health_by_access ORDER BY sort, tract_group")
-    q5 = q("SELECT need_rank, geoid, tract_name, total_population, dist_nearest_full_service_mi, "
+    q5 = q("SELECT need_rank, geoid, neighborhood, total_population, dist_nearest_full_service_mi, "
            "pct_poverty, pct_households_no_vehicle, diabetes_pct, combined_need "
            "FROM results.q5_top_need_tracts ORDER BY need_rank")
     excluded = q("SELECT * FROM results.q5_excluded_tracts")

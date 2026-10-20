@@ -141,3 +141,50 @@ OPEN_BALTIMORE_LAYERS = {
         "Grocery_Store/FeatureServer/0"
     ),
 }
+# Neighborhood Statistical Area (NSA) polygons from the city's GIS server, used
+# only to give tracts recognizable neighborhood names in reports and maps.
+NEIGHBORHOODS_LAYER = (
+    "https://baltegis.baltimorecity.gov/server/rest/services/CityView/Neighborhoods/FeatureServer/0"
+)
+
+
+# ---------------------------------------------------------------------------
+# Need score (Phase 4) - the ONE place to change weights
+# ---------------------------------------------------------------------------
+# Each component is standardized across Baltimore tracts (higher = more need),
+# multiplied by its weight, and summed. Weights must add to 1.
+#
+# Why these defaults:
+#   food_access 0.30  The project's core question is access, so distance to the
+#                     nearest full-service grocery store gets the largest weight.
+#   health      0.25  Diet-related disease (diabetes, obesity, high blood
+#                     pressure, heart disease) is what better food access aims
+#                     to improve, so it is the second-largest weight.
+#   poverty     0.20  Low income limits what people can buy even when a store is
+#                     near; it also drives eligibility for SNAP/WIC programs.
+#   no_car      0.15  Distance matters most for households that must walk or
+#                     take transit; this multiplies the access problem.
+#   seniors     0.10  Older residents face mobility limits, but the share of
+#                     65+ residents is a weaker, indirect signal, so it gets the
+#                     smallest weight.
+NEED_SCORE_WEIGHTS = {
+    "food_access": 0.30,
+    "health": 0.25,
+    "poverty": 0.20,
+    "no_car": 0.15,
+    "seniors": 0.10,
+}
+# "zscore" (default) or "minmax". Z-scores are clipped to +/-3 so one extreme
+# tract can't dominate a component.
+NEED_SCORE_STANDARDIZATION = "zscore"
+Z_CLIP = 3.0
+
+# Alternative weightings for the sensitivity check (Phase 4).
+NEED_SCORE_SCENARIOS = {
+    "Equal weights": {"food_access": 0.20, "health": 0.20, "poverty": 0.20,
+                      "no_car": 0.20, "seniors": 0.20},
+    "Health-focused": {"food_access": 0.20, "health": 0.40, "poverty": 0.20,
+                       "no_car": 0.10, "seniors": 0.10},
+    "Mobility-focused": {"food_access": 0.35, "health": 0.10, "poverty": 0.10,
+                         "no_car": 0.30, "seniors": 0.15},
+}
