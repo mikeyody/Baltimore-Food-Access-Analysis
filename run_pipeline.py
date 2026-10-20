@@ -11,6 +11,7 @@ Steps:
     score      need score + sensitivity check; write reports/need_score.md
     export     Power BI CSVs + GeoJSON to outputs/powerbi/
     visualize  charts to outputs/charts/ and the interactive outputs/map.html
+    report     reports/findings.md, README key findings, reports/resume_numbers.md
     test       run the pytest data-quality checks (stops the pipeline on failure)
 """
 
@@ -19,7 +20,7 @@ import sys
 
 import pytest
 
-from src import analyze, config, download, export, inventory, load, need_score, visualize
+from src import analyze, config, download, export, inventory, load, need_score, report, visualize
 
 
 def _download() -> None:
@@ -42,6 +43,7 @@ STEPS = {
     "score": need_score.main,
     "export": export.main,
     "visualize": visualize.main,
+    "report": report.main,
     "test": _test,
 }
 

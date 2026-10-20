@@ -56,3 +56,13 @@ def test_map_exists():
     html = (config.OUTPUTS_DIR / "map.html").read_text(encoding="utf-8")
     assert "leaflet" in html.lower()
     assert "Full-service grocery stores" in html
+
+
+def test_reports_generated():
+    """The findings report exists and the README findings block was filled in."""
+    findings = (config.REPORTS_DIR / "findings.md").read_text(encoding="utf-8")
+    assert "## Key findings" in findings and "## Recommendations" in findings
+    readme = (config.PROJECT_ROOT / "README.md").read_text(encoding="utf-8")
+    block = readme.split("<!-- KEY-FINDINGS:START -->")[1].split("<!-- KEY-FINDINGS:END -->")[0]
+    assert "Run `python run_pipeline.py` to generate" not in block
+    assert "**1." in block
