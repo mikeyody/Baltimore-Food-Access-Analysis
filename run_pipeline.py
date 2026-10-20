@@ -1,25 +1,41 @@
 """Rebuild the whole project with one command.
 
-    python run_pipeline.py            # run every step in order
-    python run_pipeline.py download   # run only the named step(s)
+    python run_pipeline.py              # run every step in order
+    python run_pipeline.py load test    # run only the named step(s)
 
-Steps are added here as each project phase is built.
+Steps:
+    download   fetch raw data into data/raw/ (skips files already present)
+    inventory  write reports/data_sources.md from the downloaded files
+    load       run sql/01-04 to build data/baltimore_food_access.duckdb
+    test       run the pytest data-quality checks (stops the pipeline on failure)
 """
 
 import logging
 import sys
 
-from src import download, inventory
+import pytest
 
-STEPS = {
-    "download": lambda: _fail_on(download.run()),
-    "inventory": inventory.main,
-}
+from src import config, download, inventory, load
 
 
-def _fail_on(failed: list[str]) -> None:
+def _download() -> None:
+    failed = download.run()
     if failed:
         raise SystemExit(f"Download failed for: {', '.join(failed)}")
+
+
+def _test() -> None:
+    code = pytest.main(["-q", str(config.PROJECT_ROOT / "tests")])
+    if code != 0:
+        raise SystemExit("Data-quality tests failed - fix before using the outputs.")
+
+
+STEPS = {
+    "download": _download,
+    "inventory": inventory.main,
+    "load": load.main,
+    "test": _test,
+}
 
 
 def main(selected: list[str]) -> None:

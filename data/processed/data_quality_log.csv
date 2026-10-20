@@ -1,0 +1,16 @@
+step,action,rows_in,rows_affected,rows_out,reason
+tracts,filtered,1475,1276,199,Kept only Baltimore City (COUNTYFP 510); other Maryland tracts removed
+tract_centroids,flagged,199,0,199,Tracts with no population-weighted centroid; geometric point-on-surface used instead
+acs,set_null,199,3,199,Median household income suppressed by Census (negative sentinel code) -> NULL
+acs,set_null,199,1,199,Percent no-vehicle or poverty undefined because the tract has 0 households / 0 people in the poverty universe -> NULL
+places,flagged,199,1,198,Baltimore tracts with no PLACES estimate (CDC does not model very-low-population tracts); kept with NULL health values
+tract_crosswalk,filtered,231,1,230,Removed relationship pieces with zero land area (water-only overlaps); non-Baltimore 2020 tracts excluded
+lram_2010,filtered,72531,72331,200,Kept 2010 tracts that overlap a Baltimore City 2020 tract; all others removed
+lram_2010,set_zero,200,161,200,"lapop1 blank in source (tract not low-access at 1 mile, per ERS) -> 0 people beyond 1 mile"
+lram_2010,flagged,200,0,200,2010 tracts in the crosswalk that are missing from LRAM (should be 0)
+lram_2020,flagged,199,9,199,2020 tracts built from 2010 tracts with mixed LILA (1/2 mile) flags; majority-of-land rule applied
+sram_2025,filtered,84119,83920,199,Kept only Baltimore City tracts (24510)
+snap_stores,filtered,3717,0,3717,Removed retailers with missing or out-of-Maryland coordinates
+snap_stores,flagged,3717,27,3717,USDA Supermarket/Super Store reclassified as Other: gas stations or membership warehouse clubs (Sam's Club 8193; Sam's Club 6652; Sam's Club 6653; Sam's Club 6383; Sam's Club 6357; Sam's Club 6434; Costco Wholesale 1039; Sam's Club 6650; Costco Wholesale 0330; Costco Wholesale 0203; Costco Wholesale 1124; BJs Wholesale Club 377; BJ's Wholesale Club 207; Costco Wholesale; BJ's Wholesale Club 322; Costco Wholesale 0208; Falls Road Shell; Costco Wholesale 1000; Sam's Club 6650; Sam's Club 4771; Sam's Club 6655; Sam's Club 6239; Costco 1326; Costco Wholesale 0213; Costco 1078; Sam's Club 6651; Costco Wholesale 0325)
+snap_stores,flagged,3717,14,3717,Stores labelled Baltimore City whose coordinates fall outside the city boundary (kept; used for distance only)
+farmers_markets,filtered,18,0,18,Removed markets with no coordinates

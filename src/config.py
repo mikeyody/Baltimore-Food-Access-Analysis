@@ -25,6 +25,9 @@ DB_PATH = DATA_DIR / "baltimore_food_access.duckdb"
 STATE_FIPS = "24"          # Maryland
 COUNTY_FIPS = "510"        # Baltimore City (an independent city, not Baltimore County = 005)
 COUNTY_GEOID = STATE_FIPS + COUNTY_FIPS  # "24510"
+# Baltimore City has 199 census tracts in the 2020 Census tract vintage
+# (200 in 2010). Used by the tests as an independent check on the data.
+EXPECTED_TRACT_COUNT = 199
 
 # ---------------------------------------------------------------------------
 # HTTP behaviour

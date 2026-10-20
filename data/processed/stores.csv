@@ -1,0 +1,923 @@
+store_id,store_name,store_type,store_category,is_full_service,address,city,zip_code,county,lat,lon,tract_geoid,in_baltimore_city
+1694822,Jalapenos Pulaski Inc,Grocery Store,Small grocery,false,8101 Pulaski Hwy,Rosedale,21237,BALTIMORE,39.319126,-76.509277,,false
+1700743,"7-eleven #23860d 23860D",Convenience Store,Convenience store,false,100 S Broadway,Baltimore,21231,BALTIMORE CITY,39.29026,-76.594276,24510030100,true
+1713175,DOLLARTREE 10802,Other,Other,false,6666 Security Blvd,Baltimore,21207,BALTIMORE,39.312309,-76.73941,,false
+1691470,"7-eleven #34301c 34301C",Convenience Store,Convenience store,false,1615 Thames St,Baltimore,21231,BALTIMORE CITY,39.281136,-76.5942,24510020300,true
+1630423,Rex's Deli,Other,Other,false,2101 E Monument St,Baltimore,21205,BALTIMORE CITY,39.298096,-76.587532,24510070300,true
+1632454,Erdman Amoco,Convenience Store,Convenience store,false,4901 Erdman Ave,Baltimore,21205,BALTIMORE CITY,39.306442,-76.559082,24510260401,true
+1609859,6 Eleven Market,Convenience Store,Convenience store,false,501 N Calhoun St,Baltimore,21223,BALTIMORE CITY,39.294239,-76.639664,24510160200,true
+1633910,"7-eleven #11637k 11637G",Convenience Store,Convenience store,false,1 Greenwood Pl,Pikesville,21208,BALTIMORE,39.374329,-76.739738,,false
+1630963,Noah's Grocery Store,Convenience Store,Convenience store,false,338 N Pulaski St,Baltimore,21223,BALTIMORE CITY,39.292702,-76.650551,24510200200,true
+1672055,Two Time Mini Mart,Grocery Store,Small grocery,false,300 N Carey St,Baltimore,21223,BALTIMORE CITY,39.292381,-76.638618,24510190100,true
+1626023,The Corner Pocket Convenience And Grocery,Grocery Store,Small grocery,false,1333 N Milton Ave,Baltimore,21213,BALTIMORE CITY,39.306786,-76.582573,24510080301,true
+1632240,Old Town Market,Convenience Store,Convenience store,false,624 Aisquith St,Baltimore,21202,BALTIMORE CITY,39.297878,-76.602081,24510280500,true
+1630680,Shop Express,Convenience Store,Convenience store,false,2335 Orleans St,Baltimore,21224,BALTIMORE CITY,39.295395,-76.583847,24510060300,true
+1174106,Birdland Mart,Convenience Store,Convenience store,false,1100 Washington Blvd,Baltimore,21230,BALTIMORE CITY,39.282959,-76.63282,24510210200,true
+1626883,Dera Express,Convenience Store,Convenience store,false,5921 Moravia Rd,Baltimore,21206,BALTIMORE CITY,39.31625,-76.545288,24510260402,true
+1630950,Kavon Food Mart 1,Convenience Store,Convenience store,false,4400 Kavon Ave,Baltimore,21206,BALTIMORE CITY,39.328377,-76.562378,24510260202,true
+1634173,Royal Mart Inc,Convenience Store,Convenience store,false,705 Whitelock St,Baltimore,21217,BALTIMORE CITY,39.314327,-76.630486,24510130100,true
+958510,7-Eleven Inc F 34280A,Convenience Store,Convenience store,false,1465 Key Hwy,Baltimore,21230,BALTIMORE CITY,39.271454,-76.599434,24510240200,true
+1630440,Discount Super Market,Convenience Store,Convenience store,false,231 N Eutaw St,Baltimore,21201,BALTIMORE CITY,39.292683,-76.620911,24510040100,true
+1564764,DollarTree 9393,Other,Other,false,6904 Harford Rd,Baltimore,21234,BALTIMORE,39.366398,-76.54985,24510270703,true
+243159,GIANT FOOD 117,Super Store,Full-service grocery,true,"6223 Baltimore National Pike # 25",Catonsville,21228,BALTIMORE,39.281548,-76.752846,,false
+252617,SHLOMO KOSHER MEAT & FISH MARKET,Specialty Store,Specialty store,false,506 Reisterstown Rd,Pikesville,21208,BALTIMORE,39.367676,-76.717133,,false
+246356,GIANT FOOD 108,Super Store,Full-service grocery,true,"6340 York Rd # 50",Baltimore,21212,BALTIMORE CITY,39.373199,-76.611633,,false
+266708,Royal Farms 111,Convenience Store,Convenience store,false,1200 Ponca St,Baltimore,21224,BALTIMORE CITY,39.277962,-76.554405,24510260605,true
+267518,Save A Lot 277,Supermarket,Full-service grocery,true,2008 Maryland Ave,Baltimore,21218,BALTIMORE CITY,39.312302,-76.618042,24510120600,true
+236252,Royal Farms 14,Convenience Store,Convenience store,false,4384 Hollins Ferry Rd,Halethorpe,21227,BALTIMORE,39.237579,-76.662888,,false
+236910,GIANT FOOD 131,Super Store,Full-service grocery,true,8665 Philadelphia Rd,Rosedale,21237,BALTIMORE,39.337685,-76.484886,,false
+238584,Royal Farms 17,Convenience Store,Convenience store,false,8207 Harford Rd,Parkville,21234,BALTIMORE,39.378712,-76.538597,,false
+239277,Royal Farms 86,Convenience Store,Convenience store,false,3601 Potee St,Brooklyn,21225,BALTIMORE CITY,39.238586,-76.611,24510250401,true
+288395,7-Eleven Inc F 23689,Convenience Store,Convenience store,false,2701 W Franklin St,Baltimore,21223,BALTIMORE CITY,39.293083,-76.661682,24510200200,true
+288785,CVS PHARMACY 540,Other,Other,false,31 E LIGHT ST,BALTIMORE,21202,BALTIMORE CITY,39.28801,-76.613625,24510040100,true
+289012,West Indian Foods,Grocery Store,Small grocery,false,5118 Liberty Heights Ave,Gwynn Oak,21207,BALTIMORE CITY,39.333424,-76.701302,24510280102,true
+230411,Royal Farms 64,Convenience Store,Convenience store,false,7950 Pulaski Hwy,Rosedale,21237,BALTIMORE,39.319046,-76.512451,,false
+229627,ALDI INC 31,Supermarket,Full-service grocery,true,3601 W Cold Spring Ln,Baltimore,21215,BALTIMORE CITY,39.335686,-76.676193,24510151100,true
+1708529,Royal Farms 466,Convenience Store,Convenience store,false,7911 Eastern Ave,Baltimore,21224,BALTIMORE,39.295563,-76.508163,,false
+261835,CVS PHARMACY 2216,Other,Other,false,1001 York Rd,Towson,21204,BALTIMORE,39.410404,-76.60862,,false
+260660,HAN-AH-REUM SUPERMARKET,Super Store,Full-service grocery,true,800 N Rolling Rd,Catonsville,21228,BALTIMORE,39.282288,-76.75531,,false
+311591,Calvin's,Convenience Store,Convenience store,false,208 E Preston St,Baltimore,21202,BALTIMORE CITY,39.304668,-76.612724,24510110100,true
+308810,Royal Farms 112,Convenience Store,Convenience store,false,3503 Washington Blvd,Halethorpe,21227,BALTIMORE,39.252796,-76.668465,,false
+1576542,Ayah Mini Mart,Grocery Store,Small grocery,false,528 N Arlington Ave,Baltimore,21223,BALTIMORE CITY,39.295212,-76.635925,24510160100,true
+332642,WALGREENS  5638,Other,Other,false,4025 W Northern Pkwy,Baltimore,21215,BALTIMORE CITY,39.349125,-76.69104,24510271900,true
+314190,The Famous Store,Convenience Store,Convenience store,false,1801 E Federal St,Baltimore,21213,BALTIMORE CITY,39.308594,-76.592674,24510080700,true
+333863,Royal Farms 91,Convenience Store,Convenience store,false,920 W 36th St,Baltimore,21211,BALTIMORE CITY,39.331184,-76.631866,24510130600,true
+274001,CVS PHARMACY 5706,Other,Other,false,7095 Baltimore Annapolis Blvd,Glen Burnie,21061,ANNE ARUNDEL,39.198502,-76.641098,,false
+296004,Walmart Supercenter 3489,Super Store,Full-service grocery,true,6420 Petrie Way Rd,Rosedale,21237,BALTIMORE,39.337353,-76.48793,,false
+352324,JENI'S 7 STAR FOOD MKT,Convenience Store,Convenience store,false,4220 Pennington Ave,Baltimore,21226,BALTIMORE CITY,39.226963,-76.588852,24510250500,true
+385984,Tonys Gethsemane,Convenience Store,Convenience store,false,13 S Franklintown Rd,Baltimore,21223,BALTIMORE CITY,39.286556,-76.658287,24510200400,true
+353059,Royal Farms 26,Convenience Store,Convenience store,false,18 N Dundalk Ave,Dundalk,21222,BALTIMORE,39.258335,-76.524368,,false
+451439,Royal Farms 11,Convenience Store,Convenience store,false,5232 Harford Rd,Baltimore,21214,BALTIMORE CITY,39.349594,-76.563828,24510270301,true
+339956,Royal Farms 46,Convenience Store,Convenience store,false,4308 Washington Blvd,Baltimore,21227,BALTIMORE,39.239529,-76.681694,,false
+1668232,Gourmet Convenience,Convenience Store,Convenience store,false,762 W Baltimore St,Baltimore,21201,BALTIMORE CITY,39.289154,-76.628738,24510280600,true
+1666218,Blessing Foods,Grocery Store,Small grocery,false,1214 E Lafayette Ave,Baltimore,21202,BALTIMORE CITY,39.310543,-76.602089,24510090900,true
+1665768,Kgenetix Farm Llc,Farmers and Markets,Farmers market,false,2315 Ashburton St,Baltimore,21216,BALTIMORE CITY,39.313728,-76.662201,24510150702,true
+257401,Royal Farms 50,Convenience Store,Convenience store,false,2704 Washington Blvd,Baltimore,21230,BALTIMORE CITY,39.264553,-76.655174,24510250206,true
+257873,Royal Farms 06,Convenience Store,Convenience store,false,3635 Keswick Rd,Baltimore,21211,BALTIMORE CITY,39.332142,-76.628036,24510130700,true
+316013,SAFEWAY  1481,Supermarket,Full-service grocery,true,2610 Boston St,Baltimore,21224,BALTIMORE CITY,39.280228,-76.579613,24510010400,true
+454185,JERUSALEM INTERNATIONAL MARKET,Grocery Store,Small grocery,false,2015 Lord Baltimore Dr,Windsor Mill,21244,BALTIMORE,39.314602,-76.752419,,false
+372156,SAFEWAY  1880,Supermarket,Full-service grocery,true,8858 Waltham Woods Rd,Parkville,21234,BALTIMORE,39.401814,-76.542816,,false
+457238,SAVE-A-LOT  543,Supermarket,Full-service grocery,true,4001 Erdman Ave,Baltimore,21213,BALTIMORE CITY,39.314026,-76.568108,24510260302,true
+372809,Shoppers Food Warehouse 2287,Super Store,Full-service grocery,true,5457 Baltimore National Pike,Baltimore,21229,BALTIMORE,39.289932,-76.718109,,false
+322586,HOBBITS INC,Convenience Store,Convenience store,false,4517 Bowleys Ln,Baltimore,21206,BALTIMORE CITY,39.325516,-76.556999,24510260202,true
+1605104,Liberty Super Mart,Convenience Store,Convenience store,false,4900 Liberty Heights Ave,Gwynn Oak,21207,BALTIMORE CITY,39.332664,-76.698631,24510280102,true
+362160,ALDI INC 30,Supermarket,Full-service grocery,true,3250 E Fayette St,Baltimore,21224,BALTIMORE CITY,39.294849,-76.571335,24510261000,true
+378241,Royal Farms 03,Convenience Store,Convenience store,false,7202 York Rd,Baltimore,21212,BALTIMORE,39.38282,-76.607376,,false
+330547,MONUMENT POULTRY,Specialty Store,Specialty store,false,2101 E MONUMENT ST,BALTIMORE,21205,BALTIMORE CITY,39.298603,-76.587524,24510070300,true
+404151,WALGREENS  5409,Other,Other,false,4020 Eastern Ave,Baltimore,21224,BALTIMORE CITY,39.286858,-76.562569,24510260900,true
+346235,7-ELEVEN 22094,Convenience Store,Convenience store,false,8507 Loch Raven Blvd,Towson,21286,BALTIMORE,39.393265,-76.563393,,false
+1204716,Cherry Hill Grocery,Convenience Store,Convenience store,false,603 Cherry Hill Rd,Brooklyn,21225,BALTIMORE CITY,39.250076,-76.622269,24510250203,true
+345247,Royal Farms 81,Convenience Store,Convenience store,false,2330 Smith Ave,Baltimore,21209,BALTIMORE,39.375534,-76.677437,,false
+345372,M&P Grocery,Convenience Store,Convenience store,false,2600 E Chase St,Baltimore,21213,BALTIMORE CITY,39.303932,-76.581047,24510080301,true
+390438,Royal Farms 31,Convenience Store,Convenience store,false,2700 Taylor Ave,Parkville,21234,BALTIMORE,39.375595,-76.546341,,false
+544559,CVS PHARMACY 2066,Other,Other,false,4625 Falls Rd,Baltimore,21209,BALTIMORE CITY,39.345062,-76.64077,24510271400,true
+629387,Royal Farms 8,Convenience Store,Convenience store,false,1630 W Joppa Rd,Towson,21204,BALTIMORE,39.409546,-76.648224,,false
+408287,GIANT FOOD 363,Super Store,Full-service grocery,true,1400 Merritt Blvd,Dundalk,21222,BALTIMORE,39.27803,-76.504578,,false
+410547,Harry's Deli,Grocery Store,Small grocery,false,2101 E Monument St,Baltimore,21205,BALTIMORE CITY,39.298092,-76.587532,24510070300,true
+410684,Al Madina Halal Meat & Spices Inc,Grocery Store,Small grocery,false,1808 Woodlawn Dr,Gwynn Oak,21207,BALTIMORE,39.317013,-76.737297,,false
+564010,Machados Mini Mart,Convenience Store,Convenience store,false,201 E Heath St,Baltimore,21230,BALTIMORE CITY,39.270489,-76.61055,24510240400,true
+305254,GIANT FOOD 353,Super Store,Full-service grocery,true,8100 Loch Raven Blvd,Baltimore,21286,BALTIMORE,39.386364,-76.575912,,false
+391658,7 MILE MARKET,Super Store,Full-service grocery,true,201 Reisterstown Rd,Pikesville,21208,BALTIMORE,39.365898,-76.712585,,false
+395798,Royal Farms 61,Convenience Store,Convenience store,false,3333 E Fayette St,Baltimore,21224,BALTIMORE CITY,39.294533,-76.570297,24510261000,true
+445731,Royal Farms 63,Convenience Store,Convenience store,false,4820 Odonnell St,Baltimore,21224,BALTIMORE CITY,39.280968,-76.554863,24510260605,true
+367057,CVS PHARMACY 4302,Other,Other,false,8302 Liberty Rd,Windsor Mill,21244,BALTIMORE,39.356968,-76.765686,,false
+599914,Dollar General 6579,Other,Other,false,7077 Baltimore Annapolis Blvd,Glen Burnie,21061,ANNE ARUNDEL,39.199375,-76.639778,,false
+602041,7-Eleven Inc 25756,Convenience Store,Convenience store,false,7501 Dunmanway,Dundalk,21222,BALTIMORE,39.258923,-76.512444,,false
+683654,Save-A-Lot 266,Supermarket,Full-service grocery,true,5007 Ritchie Hwy,Brooklyn Park,21225,BALTIMORE CITY,39.224979,-76.613464,,false
+423781,CVS PHARMACY 3974,Other,Other,false,5407 Harford Rd,Baltimore,21214,BALTIMORE CITY,39.351471,-76.562111,24510270402,true
+423848,WALGREENS  6320,Other,Other,false,2204 N Rolling Rd,Baltimore,21244,BALTIMORE,39.320225,-76.758163,,false
+420562,FOOD DEPOT,Super Store,Full-service grocery,true,2401 BELAIR RD,BALTIMORE,21213,BALTIMORE CITY,39.318348,-76.577393,24510080102,true
+684623,Royal Farms 71,Convenience Store,Convenience store,false,8235 Eastern Ave,Baltimore,21224,BALTIMORE,39.3004,-76.491867,,false
+511231,Lee's Food Market,Convenience Store,Convenience store,false,1037 N Gilmor St,Baltimore,21217,BALTIMORE CITY,39.300941,-76.643013,24510160200,true
+720094,Royal Farms 68,Convenience Store,Convenience store,false,7701 German Hill Rd,Dundalk,21222,BALTIMORE,39.279762,-76.501366,,false
+720305,The Market at Highlandtown,Super Store,Full-service grocery,true,3801 Eastern Ave,Baltimore,21224,BALTIMORE CITY,39.286694,-76.564796,24510260900,true
+721085,CVS PHARMACY 2865,Other,Other,false,500 Eastern Blvd,Essex,21221,BALTIMORE,39.308754,-76.475861,,false
+511913,ROYAL STAR GROCERY,Convenience Store,Convenience store,false,1152 E North Ave,Baltimore,21202,BALTIMORE CITY,39.311798,-76.602943,24510090800,true
+510921,H & H Grocery,Convenience Store,Convenience store,false,900 Bennett Pl,Baltimore,21223,BALTIMORE CITY,39.295033,-76.632446,24510160100,true
+486886,GIANT FOOD 159,Super Store,Full-service grocery,true,3757 Old Court Rd,Pikesville,21208,BALTIMORE,39.378952,-76.724609,,false
+723475,Walmart Supercenter 2279,Super Store,Full-service grocery,true,6721 Chesapeake Center Dr,Glen Burnie,21060,ANNE ARUNDEL,39.19006,-76.605766,,false
+689562,Natures Pantry,Grocery Store,Small grocery,false,7948 Harford Rd,Parkville,21234,BALTIMORE,39.375977,-76.541145,,false
+721596,Royal Farms 49,Convenience Store,Convenience store,false,6067 Falls Rd,Baltimore,21209,BALTIMORE,39.372444,-76.64949,,false
+491868,ALDI INC 23,Supermarket,Full-service grocery,true,6639D Governor Ritchie Hwy,Glen Burnie,21061,ANNE ARUNDEL,39.196007,-76.613228,,false
+462498,GIANT FOOD 145,Super Store,Full-service grocery,true,5150 Sinclair Ln,Baltimore,21206,BALTIMORE CITY,39.324181,-76.545113,24510260201,true
+460628,GIANT FOOD 303,Super Store,Full-service grocery,true,601 E 33rd St,Baltimore,21218,BALTIMORE CITY,39.328293,-76.60775,24510090500,true
+606263,Harvest Fare Supermarket,Super Store,Full-service grocery,true,2905 Hamilton Ave,Baltimore,21214,BALTIMORE CITY,39.353008,-76.562485,24510270600,true
+606285,Royal Farms 29,Convenience Store,Convenience store,false,627 Mace Ave,Essex,21221,BALTIMORE,39.316319,-76.474915,,false
+567844,Royal Farms 09,Convenience Store,Convenience store,false,6416 Windsor Mill Rd,Gwynn Oak,21207,BALTIMORE,39.32254,-76.727005,,false
+569993,CHARLIES GROCERY,Grocery Store,Small grocery,false,1100 S Carey St,Baltimore,21223,BALTIMORE CITY,39.281326,-76.636292,24510210200,true
+467801,S DiPaula & Sons Seafood Inc,Specialty Store,Specialty store,false,7613 Philadelphia Rd,Rosedale,21237,BALTIMORE,39.314827,-76.523277,,false
+531391,BEST CRABS,Specialty Store,Specialty store,false,1850 McHenry St,Baltimore,21223,BALTIMORE CITY,39.284271,-76.646111,24510190300,true
+1566679,Baltimore Meat & Grocery,Convenience Store,Convenience store,false,2024 N Charles St,Baltimore,21218,BALTIMORE CITY,39.313103,-76.616959,24510120600,true
+466362,Walgreens 6779,Other,Other,false,9616 Harford Rd,Parkville,21234,BALTIMORE,39.395828,-76.522629,,false
+797920,La Mart,Super Store,Full-service grocery,true,2159 W Patapsco Ave,Baltimore,21230,BALTIMORE CITY,39.251026,-76.644928,24510250205,true
+842679,Family Dollar 11775,Other,Other,false,6105 Harford Rd,Baltimore,21214,BALTIMORE CITY,39.358551,-76.556015,24510270502,true
+524595,J MAN SUPERMARKET,Grocery Store,Small grocery,false,2285 Reisterstown Rd,Baltimore,21217,BALTIMORE CITY,39.314827,-76.647842,24510130400,true
+524728,CVS PHARMACY 4438,Other,Other,false,6635 Belair Rd,Baltimore,21206,BALTIMORE CITY,39.354828,-76.530556,24510260101,true
+561217,Whole Foods Market 10064,Super Store,Full-service grocery,true,1330 Smith Ave,Baltimore,21209,BALTIMORE CITY,39.367859,-76.649147,24510271501,true
+561508,Dollar General 4579,Other,Other,false,5203 East Dr,Halethorpe,21227,BALTIMORE,39.251141,-76.69323,,false
+619763,Royal Farms 92,Convenience Store,Convenience store,false,1440 Key Hwy,Baltimore,21230,BALTIMORE CITY,39.272816,-76.600174,24510240200,true
+1662072,Friendly Grocery Store,Convenience Store,Convenience store,false,2819 E Madison St,Baltimore,21205,BALTIMORE CITY,39.299923,-76.577499,24510070100,true
+574937,Royal Farms 60,Convenience Store,Convenience store,false,6100 Holabird Ave,Baltimore,21224,BALTIMORE CITY,39.27216,-76.542763,24510260605,true
+549693,Walgreens 19086,Other,Other,false,7535 Holabird Ave,Dundalk,21222,BALTIMORE,39.270329,-76.506081,,false
+804425,DollarTree 0977,Other,Other,false,1961 E Joppa Rd,Parkville,21234,BALTIMORE,39.397846,-76.545723,,false
+535304,Royal Farms 33,Convenience Store,Convenience store,false,2050 Fleet St,Baltimore,21231,BALTIMORE CITY,39.28513,-76.587448,24510020300,true
+1630274,7 Food Mart,Convenience Store,Convenience store,false,300 N Eutaw St,Baltimore,21201,BALTIMORE CITY,39.293037,-76.621384,24510040100,true
+1634067,Danny Deli & Grocery Inc.,Convenience Store,Convenience store,false,507 Pennsylvania Ave,Baltimore,21201,BALTIMORE CITY,39.295105,-76.624008,24510170100,true
+536714,SAFEWAY  1482,Supermarket,Full-service grocery,true,2401 N Charles St,Baltimore,21218,BALTIMORE CITY,39.316574,-76.616882,24510120600,true
+587084,Giant Food 337,Super Store,Full-service grocery,true,6620 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.357578,-76.706757,24510280101,true
+1645296,Rock Seafood,Restaurant Meals Program,Other,false,4715 Liberty Heights Ave,Gwynn Oak,21207,BALTIMORE CITY,39.331367,-76.696266,24510280200,true
+1642639,Carroll Mart,Convenience Store,Convenience store,false,1900 N Rolling Rd,Windsor Mill,21244,BALTIMORE,39.312183,-76.755287,,false
+615905,CVS PHARMACY 4602,Other,Other,false,900 Edmondson Ave,Catonsville,21228,BALTIMORE,39.276226,-76.739937,,false
+616070,Dollar General 8071,Other,Other,false,5405 Baltimore National Pike,Baltimore,21229,BALTIMORE CITY,39.289932,-76.718109,,false
+581677,CVS PHARMACY 4129,Other,Other,false,1000 Taylor Ave,Towson,21286,BALTIMORE,39.385571,-76.575706,,false
+616907,SAFEWAY  1513,Supermarket,Full-service grocery,true,4401 Harford Rd,Baltimore,21214,BALTIMORE CITY,39.339981,-76.57235,24510270200,true
+581804,Walmart Supercenter 2045,Super Store,Full-service grocery,true,8118 Perry Hills Ct,Nottingham,21236,BALTIMORE,39.378983,-76.506004,,false
+582185,SAVE-A-LOT  540,Supermarket,Full-service grocery,true,6836 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.360413,-76.708115,24510280101,true
+626447,Royal Farms 55,Convenience Store,Convenience store,false,3701 Fleet St,Baltimore,21224,BALTIMORE CITY,39.285622,-76.565773,24510260900,true
+659618,Walgreens 18082,Other,Other,false,6401 Frederick Rd,Catonsville,21228,BALTIMORE,39.274708,-76.717117,,false
+583731,ALDI INC 26,Supermarket,Full-service grocery,true,3140 Washington Blvd,Baltimore,21230,BALTIMORE CITY,39.258675,-76.662056,24510250206,true
+1699992,Belair Food Market 1,Convenience Store,Convenience store,false,5840 Belair Rd,Baltimore,21206,BALTIMORE CITY,39.344639,-76.542892,24510270401,true
+586140,Giant Food 2312,Super Store,Full-service grocery,true,6636 Ritchie Hwy,Glen Burnie,21061,ANNE ARUNDEL,39.195301,-76.613525,,false
+660618,SAFEWAY  1469,Supermarket,Full-service grocery,true,5660 Baltimore National Pike,Baltimore,21228,BALTIMORE,39.28978,-76.729942,,false
+663627,SHORE PRODUCE,Farmers and Markets,Farmers market,false,7802 Wise Ave,Dundalk,21222,BALTIMORE,39.268147,-76.498772,,false
+662841,O K Natural Food Corp,Grocery Store,Small grocery,false,11 W Preston St,Baltimore,21201,BALTIMORE CITY,39.304443,-76.616989,24510110200,true
+645579,Royal Farms 41,Convenience Store,Convenience store,false,206 W Cold Spring Ln,Baltimore,21210,BALTIMORE CITY,39.345268,-76.627258,24510271400,true
+641168,Royal Farms 20,Convenience Store,Convenience store,false,1119 W 41st St,Baltimore,21211,BALTIMORE CITY,39.337833,-76.636543,24510130700,true
+676178,Royal Farms 52,Convenience Store,Convenience store,false,2410 E Joppa Rd,Parkville,21234,BALTIMORE,39.39843,-76.535301,,false
+726415,Walmart 2435,Super Store,Full-service grocery,true,2399 N Point Blvd,Dundalk,21222,BALTIMORE,39.285484,-76.498352,,false
+667153,SAVE-A-LOT  537,Supermarket,Full-service grocery,true,234 McMechen St,Baltimore,21217,BALTIMORE CITY,39.307201,-76.627937,24510140100,true
+1236435,Omega Grocery & Market 0,Grocery Store,Small grocery,false,222 Northpoint Blvd,Baltimore,21224,BALTIMORE,39.293983,-76.523125,,false
+1710220,DOLLARTREE 11424,Other,Other,false,1400 Sulphur Spring Rd,Halethorpe,21227,BALTIMORE,39.247707,-76.693527,,false
+728917,Fellner Meats,Specialty Store,Specialty store,false,2101 E Monument St,Baltimore,21205,BALTIMORE CITY,39.298599,-76.587517,24510070300,true
+768483,DollarTree 261,Other,Other,false,2319 N Point Blvd,Dundalk,21222,BALTIMORE,39.286198,-76.497154,,false
+808697,ALDI 70038 70038,Supermarket,Full-service grocery,true,1401 Merritt Blvd,Dundalk,21222,BALTIMORE,39.278687,-76.504547,,false
+772047,EUROPA,Convenience Store,Convenience store,false,4147 Labyrinth Rd,Baltimore,21215,BALTIMORE CITY,39.359226,-76.708176,24510280101,true
+592183,Food Lion 1413,Supermarket,Full-service grocery,true,8635 Walther Blvd,Perry Hall,21236,BALTIMORE,39.388786,-76.507477,,false
+590102,CVS PHARMACY 4429,Other,Other,false,7845 Wise Ave,Dundalk,21222,BALTIMORE,39.266685,-76.495453,,false
+594519,WALGREENS  6396,Other,Other,false,8606 Philadelphia Rd,Rosedale,21237,BALTIMORE,39.333694,-76.495529,,false
+642789,Anns Grocery,Convenience Store,Convenience store,false,140 S Ann St,Baltimore,21231,BALTIMORE CITY,39.289429,-76.59169,24510020200,true
+680569,GIANT FOOD 166,Super Store,Full-service grocery,true,4622 Wilkens Ave,Baltimore,21229,BALTIMORE,39.266193,-76.698853,,false
+1292797,Golden BP,Convenience Store,Convenience store,false,1900 W Lafayette Ave,Baltimore,21217,BALTIMORE CITY,39.298962,-76.647873,24510160400,true
+772965,WALGREENS 7574,Other,Other,false,5657 Baltimore National Pike,Catonsville,21228,BALTIMORE,39.287716,-76.730408,,false
+654327,Food Lion 2559,Supermarket,Full-service grocery,true,7069 Baltimore Annapolis Rd,Glen Burnie,21061,ANNE ARUNDEL,39.200161,-76.641701,,false
+783383,TARGET STORES 1938,Super Store,Full-service grocery,true,6717 Ritchie Hwy,Glen Burnie,21061,ANNE ARUNDEL,39.190269,-76.609932,,false
+1668043,Loch Hill Convenience,Convenience Store,Convenience store,false,6532 Loch Hill Rd,Loch Hill,21239,BALTIMORE,39.373348,-76.584023,,false
+699303,Doughtys Food Market,Convenience Store,Convenience store,false,2798 1/2 W North Ave,Baltimore,21216,BALTIMORE CITY,39.309433,-76.663879,24510150600,true
+735105,Walgreens 17522,Other,Other,false,238 McMechen St,Baltimore,21217,BALTIMORE CITY,39.307487,-76.628571,24510140100,true
+778671,ALDI 75056 75056,Supermarket,Full-service grocery,true,4212 Frankford Ave,Baltimore,21206,BALTIMORE CITY,39.337952,-76.551491,24510260102,true
+778996,Walgreens 17587,Other,Other,false,6838 Loch Raven Blvd,Baltimore,21286,BALTIMORE,39.383251,-76.57827,,false
+829603,Walgreens 10076,Other,Other,false,2560 Quarry Lake Dr,Baltimore,21209,BALTIMORE,39.385349,-76.688698,,false
+877999,Walgreens 07573,Other,Other,false,6301 York Rd,Baltimore,21212,BALTIMORE CITY,39.371399,-76.609787,24510270804,true
+672708,Danish Foods,Grocery Store,Small grocery,false,1722 N Rolling Rd,Windsor Mill,21244,BALTIMORE,39.30827,-76.754074,,false
+658893,Dollar General 9331,Other,Other,false,2311 E Northern Pkwy,Baltimore,21214,BALTIMORE CITY,39.36776,-76.565659,24510270702,true
+813187,Dollar General 10898,Other,Other,false,7405 Liberty Rd,Gwynn Oak,21207,BALTIMORE,39.347389,-76.740654,,false
+1003426,Dollar General 21680,Other,Other,false,3411 Dundalk Ave,Dundalk,21222,BALTIMORE,39.249722,-76.518654,,false
+794109,DollarTree 3040,Other,Other,false,1524 E Joppa Rd,Towson,21286,BALTIMORE,39.396397,-76.568977,,false
+792191,DollarTree 3038,Other,Other,false,6503 Baltimore National Pike,Catonsville,21228,BALTIMORE,39.28455,-76.762924,,false
+832339,Family Dollar 2377,Other,Other,false,2813 Greenmount Ave,Baltimore,21218,BALTIMORE CITY,39.32246,-76.608505,24510090400,true
+832340,Family Dollar 931,Other,Other,false,1601 Merritt Blvd,Baltimore,21222,BALTIMORE,39.273041,-76.502602,,false
+832347,Family Dollar 13816,Other,Other,false,4518 Edmondson Ave,Baltimore,21229,BALTIMORE CITY,39.294376,-76.692444,24510280401,true
+832510,Walmart 3720,Super Store,Full-service grocery,true,3601 Washington Blvd,Arbutus,21227,BALTIMORE,39.248386,-76.667503,,false
+832661,Family Dollar 6843,Other,Other,false,5511 Edmondson Ave,Baltimore,21229,BALTIMORE CITY,39.286129,-76.712067,,false
+832665,Family Dollar 843,Other,Other,false,2319 Cleanleigh Dr,Baltimore,21234,BALTIMORE,39.37249,-76.566986,,false
+1014116,TA Baltimore 216,Convenience Store,Convenience store,false,5501 Odonnell St,Baltimore,21224,BALTIMORE CITY,39.281212,-76.54818,24510260605,true
+849249,DollarTree 3542,Other,Other,false,817 Taylor Ave,Towson,21286,BALTIMORE,39.385853,-76.578346,,false
+1013786,Govanstowne Farmers Market,Farmers and Markets,Farmers market,false,5104 York Rd,Baltimore,21212,BALTIMORE CITY,39.35128,-76.609764,24510271002,true
+1546200,Jefferson Market Inc,Convenience Store,Convenience store,false,2611 Jefferson St,Baltimore,21205,BALTIMORE CITY,39.296719,-76.57988,24510060200,true
+834611,Family Dollar 4609,Other,Other,false,8414 Philadelphia Rd,Rosedale,21237,BALTIMORE,39.330406,-76.50061,,false
+834614,Family Dollar 5647,Other,Other,false,1301 E Fayette St,Baltimore,21231,BALTIMORE CITY,39.292236,-76.599319,24510030100,true
+834701,Family Dollar 6764,Other,Other,false,7041 Liberty Rd,Baltimore,21207,BALTIMORE,39.344902,-76.733734,,false
+853228,ALDI 71088 71088,Supermarket,Full-service grocery,true,8670 Pulaski Hwy,Baltimore,21237,BALTIMORE,39.335979,-76.483459,,false
+833185,Family Dollar 4363,Other,Other,false,1 Shipping Pl,Dundalk,21222,BALTIMORE,39.258751,-76.523338,,false
+835257,Shoppers Food Warehouse 2299,Super Store,Full-service grocery,true,2000 Gwynns Falls Pkwy,Baltimore,21216,BALTIMORE CITY,39.315891,-76.652214,24510150500,true
+835386,Family Dollar 2146,Other,Other,false,2319 N Rolling Rd,Windsor Mill,21244,BALTIMORE,39.321041,-76.758499,,false
+835961,Family Dollar 6967,Other,Other,false,3901 W Belvedere Ave,Baltimore,21215,BALTIMORE CITY,39.34444,-76.682098,24510271802,true
+835962,Family Dollar 7004,Other,Other,false,5313 York Rd,Baltimore,21212,BALTIMORE CITY,39.354507,-76.609795,24510271002,true
+835963,Family Dollar 7330,Other,Other,false,5330 Frankford Ave,Baltimore,21206,BALTIMORE CITY,39.324184,-76.540764,24510260203,true
+835579,Family Dollar 5496,Other,Other,false,3645 Potee St,Baltimore,21225,BALTIMORE CITY,39.237942,-76.610779,24510250401,true
+835593,Family Dollar 6685,Other,Other,false,1231 W Pratt St,Baltimore,21223,BALTIMORE CITY,39.284668,-76.636917,24510210200,true
+823006,Target Stores 1541,Super Store,Full-service grocery,true,1737 Reisterstown Rd,Pikesville,21208,BALTIMORE,39.383755,-76.732803,,false
+1585231,Busy Bee,Convenience Store,Convenience store,false,336 S Monroe St,Baltimore,21223,BALTIMORE CITY,39.283489,-76.646736,24510200300,true
+1286451,Family Dollar 11599,Other,Other,false,4301 Annapolis Rd,Halethorpe,21227,BALTIMORE,39.23526,-76.641449,,false
+856820,DollarTree 703,Other,Other,false,6812 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.359928,-76.707352,24510280101,true
+856833,DollarTree 2219,Other,Other,false,8659 Philadelphia Rd,Baltimore,21237,BALTIMORE,39.338501,-76.488068,,false
+922414,DollarTree 693,Other,Other,false,7934 Belair Rd,Nottingham,21236,BALTIMORE,39.374294,-76.511353,,false
+933031,Walgreens 17205,Other,Other,false,1030 W 41st St Ste E,Baltimore,21211,BALTIMORE CITY,39.338772,-76.635223,24510130700,true
+932871,Walgreens 19924,Other,Other,false,7649 Harford Rd,Baltimore,21234,BALTIMORE,39.371986,-76.542137,24510270501,true
+1655092,Royal Farms 373,Convenience Store,Convenience store,false,8100 Liberty Road,Windsor,21244,BALTIMORE,39.354809,-76.758812,,false
+1653825,Plattaking,Restaurant Meals Program,Other,false,5514 Belair Rd,Baltimore,21206,BALTIMORE CITY,39.340549,-76.548615,24510270401,true
+889432,Walgreens 06007,Other,Other,false,5740 Ritchie Hwy,Brooklyn,21225,BALTIMORE CITY,39.216267,-76.615112,,false
+1587272,Kenwood Liquor & Grocery,Convenience Store,Convenience store,false,5200 Kenwood Ave,Baltimore,21206,BALTIMORE,39.354591,-76.512978,,false
+934507,Family Dollar 8176,Other,Other,false,646 Cherry Hill Rd,Brooklyn,21225,BALTIMORE CITY,39.250542,-76.622986,24510250207,true
+758486,Trader Joe's 655,Supermarket,Full-service grocery,true,1809 Reisterstown Rd Ste 115,Pikesville,21208,BALTIMORE,39.387123,-76.736862,,false
+1598266,M&k Wholesale 1,Convenience Store,Convenience store,false,223 N Howard St,Baltimore,21201,BALTIMORE CITY,39.292412,-76.619263,24510040100,true
+1155857,Poplar Convenience Store,Convenience Store,Convenience store,false,827 Poplar Grove St,Baltimore,21216,BALTIMORE CITY,39.297684,-76.665047,24510160600,true
+758909,Walgreens 09028,Other,Other,false,6700 Ritchie Hwy,Glen Burnie,21061,ANNE ARUNDEL,39.193352,-76.613609,,false
+1648439,Food City,Grocery Store,Small grocery,false,630 N Franklintown Rd,Baltimore,21216,BALTIMORE CITY,39.295322,-76.664772,24510160600,true
+935777,Royal Farms 16,Convenience Store,Convenience store,false,6901 Ritchie Hwy,Glen Burnie,21061,ANNE ARUNDEL,39.186321,-76.612648,,false
+939420,DollarTree 860,Other,Other,false,1737 Chesaco Ave,Rosedale,21237,BALTIMORE,39.330009,-76.519188,,false
+936463,Family Dollar 8236,Other,Other,false,6656 Security Blvd,Gwynn Oak,21207,BALTIMORE,39.313381,-76.737076,,false
+1038987,Walgreens 13606,Other,Other,false,937 York Rd,Towson,21204,BALTIMORE,39.40921,-76.60849,,false
+943708,Dollar General 12348,Other,Other,false,717 Washington Blvd,Baltimore,21230,BALTIMORE CITY,39.283234,-76.626694,24510210100,true
+1039691,Save-A-Lot 61275,Supermarket,Full-service grocery,true,5101 East Dr,Halethorpe,21227,BALTIMORE,39.252476,-76.692604,,false
+1595270,7-Eleven 41323A,Convenience Store,Convenience store,false,201 North Point Blvd,Baltimore,21224,BALTIMORE,39.295101,-76.524567,,false
+1656909,Koko Market,Grocery Store,Small grocery,false,6020 Eastern Ave,Baltimore,21224,BALTIMORE CITY,39.287819,-76.543953,24510260501,true
+907748,CVS Pharmacy 4079,Other,Other,false,5603 Baltimore National Pike,Catonsville,21228,BALTIMORE,39.289215,-76.725258,,false
+945325,CVS Pharmacy 7952,Other,Other,false,630 S Exeter St,Baltimore,21202,BALTIMORE CITY,39.283733,-76.600594,24510030200,true
+958523,7-Eleven Inc F 34345A,Convenience Store,Convenience store,false,55 Market Place,Baltimore,21202,BALTIMORE CITY,39.288067,-76.606689,24510040100,true
+1598350,Winchester Famous Deli,Convenience Store,Convenience store,false,1300 Poplar Grove St,Baltimore,21216,BALTIMORE CITY,39.302227,-76.665558,24510160700,true
+1044146,Family Dollar 8165,Other,Other,false,5100 Liberty Heights Ave,Baltimore,21207,BALTIMORE,39.333378,-76.700851,24510280102,true
+1571167,RP Supermarket,Convenience Store,Convenience store,false,1832 Mosher St,Baltimore,21217,BALTIMORE CITY,39.30003,-76.647438,24510160400,true
+1295442,Dollar General 19133,Other,Other,false,5900 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.351501,-76.69577,24510280101,true
+1692799,Lexington Deli Mart,Convenience Store,Convenience store,false,329 W Lexington St,Baltimore,21201,BALTIMORE CITY,39.291348,-76.620895,24510040100,true
+961446,Dollar Plus Mart,Convenience Store,Convenience store,false,8011 Liberty Rd,Windsor Mill,21244,BALTIMORE,39.352615,-76.755081,,false
+959729,Dollar General 12310,Other,Other,false,2115 W Patapsco Ave,Baltimore,21230,BALTIMORE CITY,39.250797,-76.643898,24510250205,true
+960133,SAFEWAY 2979,Supermarket,Full-service grocery,true,1017 York Rd,Towson,21204,BALTIMORE,39.411701,-76.608856,,false
+959380,Real Food Farm,Farmers and Markets,Farmers market,false,2701 Saint LO Dr,Baltimore,21213,BALTIMORE CITY,39.314339,-76.590508,24510080200,true
+864715,DollarTree 3828,Other,Other,false,5650 Baltimore National Pike,Catonsville,21228,BALTIMORE,39.28978,-76.729942,,false
+865633,DollarTree 3971,Other,Other,false,3581 Washington Blvd,Halethorpe,21227,BALTIMORE,39.25082,-76.666786,,false
+1047869,Super Giant Store 2305,Super Store,Full-service grocery,true,7709 Harford Rd,Parkville,21234,BALTIMORE,39.372395,-76.541725,,false
+1047872,Super Giant Store 2306,Super Store,Full-service grocery,true,1020 West 41st St,Baltimore,21211,BALTIMORE CITY,39.337749,-76.635658,24510130700,true
+1047445,Brito Latin Market,Grocery Store,Small grocery,false,2015 Lord Baltimore Dr,Windsor Mill,21244,BALTIMORE,39.314602,-76.752419,,false
+1048857,Walgreens 12560,Other,Other,false,1510 Reisterstown Rd,Pikesville,21208,BALTIMORE,39.377769,-76.726921,,false
+1101780,Brother's Grocery,Grocery Store,Small grocery,false,3232 Chesterfield Avenue,Baltimore,21213,BALTIMORE CITY,39.322563,-76.566666,24510260301,true
+1101885,University Market 2,Grocery Store,Small grocery,false,3201 Saint Paul St,Baltimore,21218,BALTIMORE CITY,39.327042,-76.615852,24510120202,true
+1049035,Family Dollar 3481,Other,Other,false,5009 Governor Richie Hwy,Baltimore,21225,BALTIMORE CITY,39.224842,-76.613457,,false
+1051053,Royal Farms 100,Convenience Store,Convenience store,false,36 Light St,Baltimore,21202,BALTIMORE CITY,39.287903,-76.613976,24510040100,true
+1608066,Mount Deli & Carryout Inc,Grocery Store,Small grocery,false,2900 Greenmount Ave,Baltimore,21218,BALTIMORE CITY,39.323601,-76.609711,24510120201,true
+1052187,Dollar General 13751,Other,Other,false,8716 Belair Rd,Nottingham,21236,BALTIMORE,39.393929,-76.487701,,false
+1054298,DollarTree 4811,Other,Other,false,859 E Fort Ave,Baltimore,21230,BALTIMORE CITY,39.27195,-76.602379,24510240400,true
+1107394,A Mart,Grocery Store,Small grocery,false,2025 E Joppa Rd,Parkville,21234,BALTIMORE,39.396961,-76.542313,,false
+1058138,Dollar General 13938,Other,Other,false,1197 Merritt Blvd,Dundalk,21222,BALTIMORE,39.281746,-76.504219,,false
+1444665,Angel Market,Convenience Store,Convenience store,false,2656 Oswego Ave,Baltimore,21215,BALTIMORE CITY,39.336262,-76.662575,24510151300,true
+1110171,Highs Of Baltimore LLC 9,Convenience Store,Convenience store,false,6801 Broening Rd,Dundalk,21222,BALTIMORE,39.250484,-76.519814,,false
+1443464,Usa Market & Deli,Convenience Store,Convenience store,false,3500 Pelham Ave,Baltimore,21213,BALTIMORE CITY,39.321007,-76.565018,24510260301,true
+1444127,Highs of Baltimore LLC. 131,Convenience Store,Convenience store,false,6207 N Charles St,Baltimore,21212,BALTIMORE,39.377953,-76.626617,,false
+1446962,7-eleven 35728b,Convenience Store,Convenience store,false,3224 Washington Blvd,Baltimore,21230,BALTIMORE CITY,39.257607,-76.664101,24510250206,true
+1446866,Lucky Corner Grocery,Convenience Store,Convenience store,false,2238 Eastern Ave,Baltimore,21231,BALTIMORE CITY,39.28606,-76.584579,24510010500,true
+1446950,7-eleven 33998b,Convenience Store,Convenience store,false,6401 Golden Ring Rd,Rosedale,21237,BALTIMORE,39.33728,-76.504616,,false
+1081225,Wawa 8503,Convenience Store,Convenience store,false,7124 Ritchie Hwy,Glen Burnie,21061,ANNE ARUNDEL,39.179806,-76.614906,,false
+1080557,Aldi 71035,Supermarket,Full-service grocery,true,903 Taylor Ave,Towson,21286,BALTIMORE,39.385437,-76.579407,,false
+1068488,DollarTree 5030,Other,Other,false,1052 Maiden Choice Ln,Baltimore,21229,BALTIMORE,39.261181,-76.696503,,false
+1070526,DollarTree 5057,Other,Other,false,5710 Wabash Ave,Baltimore,21215,BALTIMORE CITY,39.348557,-76.70047,24510280102,true
+1237991,7-Eleven 17118C,Convenience Store,Convenience store,false,1801 Reisterstown Rd,Pikesville,21208,BALTIMORE,39.386436,-76.735992,,false
+1662958,Reedbird Mart,Convenience Store,Convenience store,false,200 Reedbird Ave,Brooklyn,21225,BALTIMORE CITY,39.248692,-76.616646,24510250203,true
+1083335,Royal Farms 23,Convenience Store,Convenience store,false,6411 Fort Smallwood Rd,Baltimore,21226,ANNE ARUNDEL,39.201283,-76.554794,24510250500,true
+1117208,Highs Of Baltimore LLC 18,Convenience Store,Convenience store,false,1075 Maiden Choice Ln,Baltimore,21229,BALTIMORE,39.261406,-76.695152,,false
+1115327,Royal Farms 169,Convenience Store,Convenience store,false,6201 Pulaski Hwy,Baltimore,21205,BALTIMORE CITY,39.303062,-76.543625,24510260404,true
+1117984,Family Dollar 11776,Other,Other,false,2500 Gwynns Falls Pkwy,Baltimore,21216,BALTIMORE CITY,39.316036,-76.656563,24510150500,true
+1118108,Target Store 2845,Super Store,Full-service grocery,true,3559 Boston St,Baltimore,21224,BALTIMORE CITY,39.274811,-76.566498,24510260605,true
+1085931,DOLLAR GENERAL 13406,Other,Other,false,2511 Greenmount Ave,Baltimore,21218,BALTIMORE CITY,39.31863,-76.609428,24510090800,true
+1686095,K's Chicken,Specialty Store,Specialty store,false,26 S Arlington Ave,Baltimore,21223,BALTIMORE CITY,39.287525,-76.635345,24510180300,true
+1154879,Save A Lot 61277,Supermarket,Full-service grocery,true,3427 Clifton Ave,Baltimore,21216,BALTIMORE CITY,39.310894,-76.674431,24510150600,true
+964555,Quick Mart,Convenience Store,Convenience store,false,6920 German Hill Rd,Dundalk,21222,BALTIMORE,39.282639,-76.524757,,false
+963967,WAWA 558,Convenience Store,Convenience store,false,8731 Pulaski Hwy,Rosedale,21237,BALTIMORE,39.336105,-76.482811,,false
+963993,WAWA 598,Convenience Store,Convenience store,false,2845 N Rolling Rd,Baltimore,21244,BALTIMORE,39.333248,-76.759674,,false
+1157898,Save A Lot 61276,Supermarket,Full-service grocery,true,1101 Pennsylvania Ave,Baltimore,21201,BALTIMORE CITY,39.298649,-76.628517,24510170200,true
+1071658,The Fresh Market 129,Supermarket,Full-service grocery,true,838 Dulaney Valley Rd,Towson,21204,BALTIMORE,39.405155,-76.602554,,false
+1120330,Avondale Mini Mart,Convenience Store,Convenience store,false,505 Avondale Rd,Dundalk,21222,BALTIMORE,39.239658,-76.506851,,false
+1023984,Royal Farms 159,Convenience Store,Convenience store,false,1801 Washington Blvd,Baltimore,21230,BALTIMORE CITY,39.275078,-76.642441,24510210200,true
+1071610,The Fresh Market 086,Supermarket,Full-service grocery,true,2510 Quarry Lake Dr,Baltimore,21209,BALTIMORE,39.384628,-76.687233,,false
+1071834,Walgreens 13840,Other,Other,false,8650 Belair Rd,Nottingham,21236,BALTIMORE,39.391243,-76.48925,,false
+1449159,7-eleven 29731c,Convenience Store,Convenience store,false,3003 North Point Rd,Dundalk,21222,BALTIMORE,39.277935,-76.486641,,false
+1089190,Aldi 71039,Supermarket,Full-service grocery,true,6503A Baltimore National Pike,Catonsville,21228,BALTIMORE,39.28455,-76.762924,,false
+1121113,GW Supermarket Of Baltimore Inc,Super Store,Full-service grocery,true,5510 Baltimore National Pike,Catonsville,21228,BALTIMORE,39.291313,-76.722176,,false
+1087095,Mercado Cinco De Mayo,Supermarket,Full-service grocery,true,417 S Highland Ave,Baltimore,21224,BALTIMORE CITY,39.28698,-76.568718,24510260900,true
+1121408,Walgreens 15284,Other,Other,false,900 N Washington Blvd,Baltimore,21205,BALTIMORE CITY,39.300774,-76.58976,24510070400,true
+1690982,Sam's Club 6650,Super Store,Other,false,6410 Petrie Way,Rosedale,21237,BALTIMORE,39.334053,-76.487518,,false
+1687746,"Checkers #3051",Restaurant Meals Program,Other,false,6210 Rossville Blvd,Rosedale,21237,BALTIMORE,39.3367,-76.480476,,false
+1121784,Pixie Pizza & Sub,Convenience Store,Convenience store,false,606 Cherry Hill Rd,Brooklyn,21225,BALTIMORE CITY,39.250542,-76.622986,24510250207,true
+1091703,Weis Markets 228,Supermarket,Full-service grocery,true,1238 Putty Hill Ave,Townson,21286,BALTIMORE,39.393196,-76.581017,,false
+1091704,Weis Markets 229,Supermarket,Full-service grocery,true,7005 Security Blvd,Windsor Mills,21244,BALTIMORE,39.312756,-76.752533,,false
+1075992,Dollar General 14160,Other,Other,false,7350 Harford Rd,Parkville,21234,BALTIMORE CITY,39.370243,-76.545967,24510270703,true
+1076006,Lotte Plaza,Super Store,Full-service grocery,true,6600 Baltimore National Pike,Catonsville,21228,BALTIMORE,39.287727,-76.764381,,false
+1649990,Costco Wholesale 0203,Super Store,Other,false,575 E Ordnance Rd,Glen Burnie,21060,ANNE ARUNDEL,39.19659,-76.600685,,false
+1215800,ALDI 71048 71048,Supermarket,Full-service grocery,true,8808 Belair Rd,Nottingham,21236,BALTIMORE,39.393967,-76.486061,,false
+1217508,DollarTree 5732,Other,Other,false,5970 Belair Rd,Baltimore,21206,BALTIMORE CITY,39.347565,-76.538864,24510270401,true
+1215976,Save A Lot 951,Supermarket,Full-service grocery,true,2705 W Cold Spring Ln,Baltimore,21215,BALTIMORE CITY,39.339161,-76.667206,24510151300,true
+1220268,Luckies Superette,Convenience Store,Convenience store,false,4223 Annapolis Rd,Halethorpe,21227,BALTIMORE,39.236591,-76.64138,,false
+1219626,Tropical Marketplace Inc,Grocery Store,Small grocery,false,7104 Liberty Rd,Gwynn Oak,21207,BALTIMORE,39.345627,-76.735451,,false
+1219958,BJs Wholesale Club 377,Super Store,Other,false,4701 O'Donnell Street,Baltimore,21224,BALTIMORE CITY,39.279369,-76.555733,24510260605,true
+1221865,Royal Farms 193,Convenience Store,Convenience store,false,803 Pinnacle Dr,Linthicum Heights,21090,ANNE ARUNDEL,39.21534,-76.678482,,false
+1522788,Penn Mart,Convenience Store,Convenience store,false,4101 Pennington Ave,Curtis Bay,21226,BALTIMORE CITY,39.228134,-76.588432,24510250500,true
+1591636,Family Food Mart 1,Convenience Store,Convenience store,false,2612 Gwynns Falls Pkwy,Baltimore,21216,BALTIMORE CITY,39.315407,-76.660461,24510150701,true
+1657460,Asia Foods,Grocery Store,Small grocery,false,5244 York Rd,Baltimore,21212,BALTIMORE CITY,39.353275,-76.609894,24510271002,true
+1247295,Luckies Deli Mart,Convenience Store,Convenience store,false,4100 Pennington Ave,Curtis Bay,21226,BALTIMORE CITY,39.228127,-76.58876,24510250500,true
+1588697,Pen Lucy Market Deli Inc,Convenience Store,Convenience store,false,841 Belgian Ave,Baltimore,21218,BALTIMORE CITY,39.340305,-76.603806,24510090100,true
+1596659,Giant Food 2334,Super Store,Full-service grocery,true,1955 East Joppa Road,Parkville,21234,BALTIMORE,39.397846,-76.545723,,false
+1246035,7-eleven 24552E,Convenience Store,Convenience store,false,630 W 33rd St,Baltimore,21211,BALTIMORE CITY,39.327118,-76.627495,24510130600,true
+1195045,7-Eleven 116399E,Convenience Store,Convenience store,false,7440 Holabird Ave,Dundalk,21222,BALTIMORE,39.2715,-76.508797,,false
+972043,Royal Farms 74,Convenience Store,Convenience store,false,1525 E Joppa Rd,Towson,21286,BALTIMORE,39.396416,-76.568405,,false
+1652995,Basilica Cafe Llc,Convenience Store,Convenience store,false,124 W Franklin St,Baltimore,21201,BALTIMORE CITY,39.295193,-76.617783,24510110200,true
+1523469,Al Zaeem Grocery And Tobacco Llc,Convenience Store,Convenience store,false,2944 E Preston St,Baltimore,21213,BALTIMORE CITY,39.306259,-76.575836,24510080302,true
+1523474,New Deli Market,Convenience Store,Convenience store,false,2906 Garrison Blvd,Baltimore,21216,BALTIMORE CITY,39.320751,-76.677872,24510150800,true
+1131277,One Stop Grocery,Convenience Store,Convenience store,false,1702 N Calhoun St,Baltimore,21217,BALTIMORE CITY,39.308228,-76.643829,24510150100,true
+1223952,Hawkins Point Citgo,Convenience Store,Convenience store,false,6301 Efficiency Way,Curtis Bay,21226,BALTIMORE CITY,39.202602,-76.560638,24510250500,true
+1035624,Royal Farms 138,Convenience Store,Convenience store,false,1530 Russell St,Baltimore,21230,BALTIMORE CITY,39.273964,-76.62812,24510210100,true
+1251718,Amana N' Things,Convenience Store,Convenience store,false,2612 E Monument St,Baltimore,21205,BALTIMORE CITY,39.299065,-76.580475,24510070200,true
+1037139,Royal Farms 153,Convenience Store,Convenience store,false,1501 62nd St,Rosedale,21237,BALTIMORE,39.310577,-76.530937,24510260403,true
+1036671,WAWA 8502,Convenience Store,Convenience store,false,6541 Eastern Ave,Baltimore,21224,BALTIMORE CITY,39.287773,-76.535271,24510260501,true
+1609240,Grab And Go Mart Llc,Convenience Store,Convenience store,false,1108 S Charles St,Baltimore,21230,BALTIMORE CITY,39.276478,-76.614655,24510230100,true
+1276484,Trader Joe's 649,Supermarket,Full-service grocery,true,800 Kenilworth Dr,Towson,21204,BALTIMORE,39.410519,-76.618629,,false
+1630127,Big Brother Mini Mart,Convenience Store,Convenience store,false,2401 Jefferson St,Baltimore,21205,BALTIMORE CITY,39.296535,-76.583427,24510060200,true
+1662070,4th Street Deli & Grocery,Convenience Store,Convenience store,false,4607 4th St,Brooklyn,21225,ANNE ARUNDEL,39.228916,-76.607651,,false
+1170740,Wawa 8504,Convenience Store,Convenience store,false,3716 Washington Blvd,Halethorpe,21227,BALTIMORE,39.246132,-76.672478,,false
+1342538,Brooklyn Park Carrol Fuel,Convenience Store,Convenience store,false,5731 Ritchie Hwy,Brooklyn,21225,ANNE ARUNDEL,39.216068,-76.614334,,false
+1342677,Monument Street Market,Grocery Store,Small grocery,false,2101 E Monument St,Baltimore,21205,BALTIMORE CITY,39.298092,-76.587532,24510070300,true
+1588403,La Union Market II,Convenience Store,Convenience store,false,6709 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.358978,-76.705368,24510272007,true
+1343724,BP Gas STation,Convenience Store,Convenience store,false,2801 Edmondson Ave,Baltimore,21223,BALTIMORE CITY,39.294411,-76.663834,24510160600,true
+978276,Walgreens 12790,Other,Other,false,6323 Baltimore National Pike,Catonsville,21228,BALTIMORE,39.28347,-76.755302,,false
+1313627,Charles Convenience Store,Convenience Store,Convenience store,false,4908 Hazelwood Ave,Baltimore,21206,BALTIMORE,39.342213,-76.527435,,false
+1278593,Royal Farms 247,Convenience Store,Convenience store,false,2215 W Patapsco Ave,Baltimore,21230,BALTIMORE CITY,39.251373,-76.646515,24510250205,true
+1279253,Family Dollar 11858,Other,Other,false,2238 E Monument St,Baltimore,21205,BALTIMORE CITY,39.298737,-76.585396,24510070300,true
+1279258,Family Dollar 11853,Other,Other,false,1763 Chesaco Ave,Baltimore,21237,BALTIMORE,39.32962,-76.52063,,false
+1279687,DollarTree 7207,Other,Other,false,7621 Harford Rd,Baltimore,21234,BALTIMORE,39.372047,-76.544235,24510270501,true
+1196978,Feng Market,Convenience Store,Convenience store,false,666 Cokesbury Ave,Baltimore,21218,BALTIMORE CITY,39.315948,-76.606964,24510090800,true
+1652696,La Mart 6,Super Store,Full-service grocery,true,4624 Edmondson Ave,Baltimore,21229,BALTIMORE CITY,39.29388,-76.69593,24510280401,true
+1317834,Family Dollar 12042,Other,Other,false,3801 W Forest Park Ave,Baltimore,21216,BALTIMORE CITY,39.326065,-76.681786,24510151000,true
+1314390,Casablanca Quick Mart,Convenience Store,Convenience store,false,2517 E Oliver St,Baltimore,21213,BALTIMORE CITY,39.307926,-76.582123,24510080301,true
+1594664,American Fuel,Convenience Store,Convenience store,false,2025 N Charles St,Baltimore,21218,BALTIMORE CITY,39.312935,-76.616409,24510120600,true
+1314554,Gomez City Grocery,Convenience Store,Convenience store,false,2149 W Lexington St,Baltimore,21223,BALTIMORE CITY,39.290382,-76.651443,24510200200,true
+1596050,Sisson Fuel Llc no,Convenience Store,Convenience store,false,2725 Sisson St,Baltimore,21211,BALTIMORE CITY,39.319431,-76.624771,24510120700,true
+1669880,Cheezy's Pizza & Subs,Restaurant Meals Program,Other,false,1637 E Joppa Rd,Towson,21286,BALTIMORE,39.396873,-76.563972,,false
+1200995,DollarTree 6014,Other,Other,false,6651 Governor Ritchie Hwy,Glen Burnie,21061,ANNE ARUNDEL,39.195618,-76.613235,,false
+1525182,Giant Food Store 2333,Super Store,Full-service grocery,true,857 E Fort Ave,Baltimore,21230,BALTIMORE CITY,39.270657,-76.602509,24510240400,true
+1524997,Glover Mini Mart Inc,Convenience Store,Convenience store,false,535 N Glover St,Baltimore,21205,BALTIMORE CITY,39.297718,-76.579948,24510070200,true
+1316935,Wawa 8510,Convenience Store,Convenience store,false,1300 E Joppa Rd,Towson,21284,BALTIMORE,39.395882,-76.575218,,false
+1319736,7-eleven 25045b,Convenience Store,Convenience store,false,403 Frederick Rd,Catonsville,21228,BALTIMORE,39.27301,-76.726906,,false
+1316181,Weis Markets 206,Supermarket,Full-service grocery,true,7927 Belair Rd,Nottingham,21236,BALTIMORE,39.374054,-76.508926,,false
+1319102,Speedy Mart,Convenience Store,Convenience store,false,3815 Hollins Ferry Rd,Halethorpe,21227,BALTIMORE,39.243603,-76.649475,,false
+1316641,Corner Liquor,Convenience Store,Convenience store,false,4742 Frederick Ave,Baltimore,21229,BALTIMORE CITY,39.281673,-76.694679,24510280403,true
+1666231,Vostok Food Market,Grocery Store,Small grocery,false,6852 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.360023,-76.709381,24510280101,true
+1182689,Johnnys Deli,Convenience Store,Convenience store,false,2101 E Monument St,Baltimore,21205,BALTIMORE CITY,39.298603,-76.587524,24510070300,true
+1181526,7-Eleven 27456D,Convenience Store,Convenience store,false,5401 Radecke Ave,Baltimore,21206,BALTIMORE CITY,39.329189,-76.54158,24510260203,true
+1181163,Food Stop Mini Mart 2 Inc,Convenience Store,Convenience store,false,2415 Frederick Ave,Baltimore,21223,BALTIMORE CITY,39.282433,-76.65519,24510200500,true
+1285311,Family Dollar 11923,Other,Other,false,4524 Erdman Ave,Baltimore,21213,BALTIMORE CITY,39.309765,-76.563164,24510260303,true
+1526365,Family Food Market 1 Inc,Convenience Store,Convenience store,false,1647 Wilkens Ave,Baltimore,21223,BALTIMORE CITY,39.282936,-76.643318,24510190300,true
+1526424,One Stop Food Market Frederick,Convenience Store,Convenience store,false,4007 Frederick Ave,Baltimore,21229,BALTIMORE CITY,39.281601,-76.682381,24510200800,true
+1483625,Live From The A,Convenience Store,Convenience store,false,1527 Pennsylvania Ave,Baltimore,21217,BALTIMORE CITY,39.302578,-76.633049,24510140200,true
+1207519,Genesis Mercado Latino,Grocery Store,Small grocery,false,32 N Dundalk Ave,Dundalk,21222,BALTIMORE,39.259605,-76.525131,,false
+1321245,Charm City Fuels,Convenience Store,Convenience store,false,1111 Dundalk Ave,Baltimore,21224,BALTIMORE CITY,39.281288,-76.535057,24510260605,true
+1375687,M & H Market,Convenience Store,Convenience store,false,1700 Presstman St,Baltimore,21217,BALTIMORE CITY,39.305519,-76.64489,24510150200,true
+1376288,Kauffman's Fresh Meats 2401,Specialty Store,Specialty store,false,2401 Northpoint Road,Dundalk,21222,BALTIMORE,39.282547,-76.494987,,false
+1322908,Bernal Deli Grocery,Convenience Store,Convenience store,false,2049 E North Ave,Baltimore,21213,BALTIMORE CITY,39.312366,-76.588829,24510080600,true
+1184473,Dollar General 15271,Other,Other,false,4101 Pulaski Hwy,Baltimore,21224,BALTIMORE CITY,39.297123,-76.562645,24510260404,true
+696491,One Stop Food Store,Convenience Store,Convenience store,false,23 N Howard St,Baltimore,21201,BALTIMORE CITY,39.290028,-76.619385,24510040100,true
+1614056,Papa Mama Convenience Llc,Convenience Store,Convenience store,false,11 N Howard St,Baltimore,21201,BALTIMORE CITY,39.290058,-76.619156,24510040100,true
+1186783,Shoppers Food Warehouse 2399,Super Store,Full-service grocery,true,5600 The Alameda,Baltimore,21239,BALTIMORE CITY,39.358677,-76.595863,24510270802,true
+1685617,Hollins Grocery Llc,Convenience Store,Convenience store,false,26 S Arlington Ave,Baltimore,21223,BALTIMORE CITY,39.287525,-76.635345,24510180300,true
+1527800,Brooklyn Mart,Grocery Store,Small grocery,false,817 E Patapsco Ave,Brooklyn,21225,BALTIMORE CITY,39.234844,-76.598495,24510250402,true
+1687738,"Checkers #1150",Restaurant Meals Program,Other,false,1915 E Joppa Rd,Parkville,21234,BALTIMORE,39.399952,-76.54834,,false
+1392975,Lidl 1413,Super Store,Full-service grocery,true,6026 Baltimore National Pike,Catonsville,21228,BALTIMORE,39.284809,-76.745171,,false
+1392977,Lidl 1419,Super Store,Full-service grocery,true,8667 Belair Rd,Nottingham,21236,BALTIMORE,39.390804,-76.488281,,false
+1393250,D And J Beer And Wine,Convenience Store,Convenience store,false,3600 W Garrison Ave,Baltimore,21215,BALTIMORE CITY,39.345112,-76.677681,24510271802,true
+1324782,Dash In 1423,Convenience Store,Convenience store,false,6616 Ritchie Hwy,Glen Burnie,21061,ANNE ARUNDEL,39.19698,-76.613449,,false
+1324457,Shop Express,Convenience Store,Convenience store,false,5230 Moravia Rd,Baltimore,21206,BALTIMORE CITY,39.323452,-76.549286,24510260201,true
+1640996,Poppleton Food Market,Convenience Store,Convenience store,false,805 W Lexington St,Baltimore,21201,BALTIMORE CITY,39.290916,-76.630493,24510280600,true
+1368317,Dollar General 20825,Other,Other,false,5815 York Rd,Baltimore,21212,BALTIMORE CITY,39.360771,-76.609894,24510270805,true
+1528309,Westview Shell 1,Convenience Store,Convenience store,false,920 Ingleside Ave,Catonsville,21228,BALTIMORE,39.290398,-76.731148,,false
+1129199,Baltimart 39655A,Convenience Store,Convenience store,false,705 Washington Blvd,Baltimore,21230,BALTIMORE CITY,39.283276,-76.626526,24510210100,true
+884240,Lowest Price Gas Station,Convenience Store,Convenience store,false,3900 Frederick Ave,Baltimore,21229,BALTIMORE CITY,39.281818,-76.681374,24510200800,true
+1368754,Hamilton Grocery,Convenience Store,Convenience store,false,2300 Hamilton Ave,Baltimore,21214,BALTIMORE CITY,39.356575,-76.569237,24510270600,true
+1054985,Redner's Warehouse Market 96,Supermarket,Full-service grocery,true,7938 Eastern Ave,Baltimore,21224,BALTIMORE,39.296288,-76.507248,,false
+864942,7-Eleven 39148,Convenience Store,Convenience store,false,2701 N Rolling Rd,Windsor Mill,21244,BALTIMORE,39.330055,-76.758629,,false
+1313619,Food City Mart,Convenience Store,Convenience store,false,1733 Pennsylvania Ave,Baltimore,21217,BALTIMORE CITY,39.304272,-76.635201,24510140200,true
+1591683,DollarTree 10046,Other,Other,false,597B E Ordnance Rd,Glen Burnie,21060,ANNE ARUNDEL,39.198574,-76.596107,,false
+1300785,Save-A-Lot 61283,Supermarket,Full-service grocery,true,1744 Merritt Blvd,Dundalk,21222,BALTIMORE,39.268879,-76.504044,,false
+1302145,DOLLAR GENERAL 17185,Other,Other,false,5101 Ritchie Hwy,Brooklyn Park,21225,BALTIMORE CITY,39.222919,-76.613655,,false
+1326559,Punjab Halal Meat & Grocery 1,Grocery Store,Small grocery,false,345 E 33rd St,Baltimore,21218,BALTIMORE CITY,39.32819,-76.611641,24510120201,true
+1396275,Ez Convenience/ Lucky 7,Convenience Store,Convenience store,false,4419 York Rd,Baltimore,21212,BALTIMORE CITY,39.343094,-76.60952,24510271001,true
+1395928,Jack's Fine Food,Convenience Store,Convenience store,false,4519 Kenwood Ave,Baltimore,21206,BALTIMORE,39.354134,-76.52269,,false
+1396299,Convenience Corner,Convenience Store,Convenience store,false,6612 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.357361,-76.704147,24510280101,true
+1003845,Catonsville Farmers Market,Farmers and Markets,Farmers market,false,5820 Edmondson Ave,Catonsville,21228,BALTIMORE,39.281517,-76.715927,,false
+875105,Kemi African International Food Store,Grocery Store,Small grocery,false,7116 Darlington Dr,Parkville,21234,BALTIMORE,39.37294,-76.558594,,false
+961647,Daily Grocery,Grocery Store,Small grocery,false,3900 Claremont St,Baltimore,21224,BALTIMORE CITY,39.289757,-76.564369,24510260800,true
+1650927,Daddy Pa's Mart,Convenience Store,Convenience store,false,4114 Belle Grove Rd,Brooklyn,21225,ANNE ARUNDEL,39.232746,-76.616051,,false
+1374045,Tienda Latina Mary,Grocery Store,Small grocery,false,409 Winters Ln,Catonsville,21228,BALTIMORE,39.284489,-76.743752,,false
+1370844,Neighborhood Grocery,Convenience Store,Convenience store,false,1946 Penrose Ave,Baltimore,21223,BALTIMORE CITY,39.291233,-76.648705,24510200100,true
+1328058,Sprouts Farmers Market 917,Supermarket,Full-service grocery,true,803 Goucher Blvd,Towson,21286,BALTIMORE,39.398209,-76.586296,,false
+1303069,DollarTree 8061,Other,Other,false,3803 Dundalk Avenue,Dundalk,21222,BALTIMORE,39.247177,-76.516846,,false
+1397273,Mt. Everest Deli And Grocery,Convenience Store,Convenience store,false,6712 Windsor Mill Rd,Gwynn Oak,21207,BALTIMORE,39.325798,-76.733284,,false
+1397198,Cross Keys Exxon/circle K 2654053,Convenience Store,Convenience store,false,4434 Falls Rd,Baltimore,21211,BALTIMORE CITY,39.342991,-76.640198,24510130803,true
+1253888,Weis Markets 84,Supermarket,Full-service grocery,true,7200 Holabird Ave,Baltimore,21222,BALTIMORE,39.272766,-76.517097,,false
+1253889,Weis Markets 85,Supermarket,Full-service grocery,true,7848 Wise Ave,Baltimore,21222,BALTIMORE,39.266769,-76.495529,,false
+1253892,Weis Markets 89,Supermarket,Full-service grocery,true,1080 Maiden Choice Ln,Baltimore,21229,BALTIMORE,39.261562,-76.695518,,false
+1360592,Greenmount Market,Convenience Store,Convenience store,false,1913 Greenmount Ave,Baltimore,21218,BALTIMORE CITY,39.312046,-76.609444,24510090800,true
+1557006,Neighborhood Deli & Grocery Llc,Convenience Store,Convenience store,false,2435 Linden Ave,Baltimore,21217,BALTIMORE CITY,39.31485,-76.636055,24510130100,true
+1606947,Harlem Park Community Farm,Farmers and Markets,Farmers market,false,1314 Harlem Ave,Baltimore,21217,BALTIMORE CITY,39.297009,-76.639526,24510160200,true
+1246551,Deli Latino LLC,Grocery Store,Small grocery,false,4700 Eastern Ave,Baltimore,21224,BALTIMORE CITY,39.287079,-76.556412,24510260700,true
+1169759,DP Food Mart,Convenience Store,Convenience store,false,2917 Sollers Point Rd,Dundalk,21222,BALTIMORE,39.25824,-76.512817,,false
+1200202,A & M Mart,Convenience Store,Convenience store,false,2424 Pennsylvania Ave,Baltimore,21217,BALTIMORE CITY,39.309677,-76.64241,24510150100,true
+1255496,Village Family Mart,Convenience Store,Convenience store,false,12 N Dundalk Ave,Dundalk,21222,BALTIMORE,39.257969,-76.5242,,false
+1256501,CVS 10565,Other,Other,false,3200 St Paul St,Baltimore,21218,BALTIMORE CITY,39.327557,-76.616066,24510120202,true
+1256506,CVS 10751,Other,Other,false,934 N Charles St,Baltimore,21201,BALTIMORE CITY,39.300808,-76.615898,24510110200,true
+1360910,Avenue Mart,Convenience Store,Convenience store,false,3134 W North Ave,Baltimore,21216,BALTIMORE CITY,39.309055,-76.669952,24510150600,true
+1361993,Market Maven 01,Super Store,Full-service grocery,true,1630 Reisterstown Rd,Pikesville,21208,BALTIMORE,39.379505,-76.728142,,false
+1379494,G & A Food Market,Convenience Store,Convenience store,false,1204 Druid Hill Ave,Baltimore,21217,BALTIMORE CITY,39.301369,-76.6278,24510170200,true
+1374776,CAAZ CORP,Convenience Store,Convenience store,false,6324 Sherwood Rd,Idlewylde,21239,BALTIMORE,39.373268,-76.595512,,false
+1374798,Ingleside Food Mart,Convenience Store,Convenience store,false,1022 Ingleside Ave,Catonsville,21228,BALTIMORE,39.291985,-76.73156,,false
+1374828,DollarTree 7763,Other,Other,false,5013 York Rd,Baltimore,21212,BALTIMORE CITY,39.349781,-76.60965,24510271002,true
+1426618,Express Deli & Grocery,Convenience Store,Convenience store,false,4604 Eastern Ave,Baltimore,21224,BALTIMORE CITY,39.287239,-76.557083,24510260700,true
+1374097,Jimmy D's Market,Convenience Store,Convenience store,false,5910 Radecke Ave,Baltimore,21206,BALTIMORE CITY,39.33073,-76.532104,24510260102,true
+1351904,The Frederick Store Llc,Grocery Store,Small grocery,false,4110 Frederick Ave,Baltimore,21229,BALTIMORE CITY,39.281765,-76.68367,24510200800,true
+1562198,Buffalo Bills Ii,Specialty Store,Specialty store,false,112 N Eutaw St,Baltimore,21201,BALTIMORE CITY,39.291077,-76.621719,24510040100,true
+1379228,7-Eleven 11537D,Convenience Store,Convenience store,false,1313 Francis Ave,Halethorpe,21227,BALTIMORE,39.238407,-76.695107,,false
+1257685,DollarTree 3531,Other,Other,false,1762 Merritt Blvd,Dundalk,21222,BALTIMORE,39.268219,-76.50441,,false
+1309309,DollarTree 652,Other,Other,false,3820 E Lombard St,Baltimore,21224,BALTIMORE CITY,39.291569,-76.564903,24510260800,true
+1400001,Grace Grocery NO,Convenience Store,Convenience store,false,2435 W Lafayette Ave,Baltimore,21216,BALTIMORE CITY,39.298191,-76.656357,24510160500,true
+1400025,7-eleven 11709c,Convenience Store,Convenience store,false,8014 Liberty Rd,Windsor Mill,21244,BALTIMORE,39.352985,-76.754791,,false
+1363824,Absolute Mart,Convenience Store,Convenience store,false,228 N Eutaw St,Baltimore,21201,BALTIMORE CITY,39.292633,-76.621193,24510040100,true
+1362900,Happy Family Mart,Grocery Store,Small grocery,false,700B Cherry Hill Rd,Brooklyn,21225,BALTIMORE CITY,39.24971,-76.623764,24510250207,true
+1259970,Walgreens 18308,Other,Other,false,2700 Remington Ave,Baltimore,21211,BALTIMORE CITY,39.320599,-76.620857,24510120700,true
+1383801,Eastern Grocery & Mas 1,Grocery Store,Small grocery,false,6810 Eastern Ave,Baltimore,21224,BALTIMORE CITY,39.28812,-76.530632,24510260501,true
+1384414,CVS Pharmacy 10588,Other,Other,false,4701 Wilkens Ave,Catonsville,21228,BALTIMORE,39.264336,-76.699844,,false
+1263013,Save A Lot 61282,Supermarket,Full-service grocery,true,2509 E Monument St,Baltimore,21205,BALTIMORE CITY,39.298481,-76.581764,24510070200,true
+1263021,Family Dollar 5990,Other,Other,false,5636 THE ALAMEDA,BALTIMORE,21239,BALTIMORE CITY,39.358692,-76.594826,24510270802,true
+1261193,DollarTree 7032,Other,Other,false,2375 N Rolling Rd,Baltimore,21244,BALTIMORE,39.323498,-76.759094,,false
+1264888,Family Dollar 11597,Other,Other,false,3432 Frederick Ave,Baltimore,21229,BALTIMORE CITY,39.281567,-76.674759,24510200800,true
+1264355,Family Dollar 11835,Other,Other,false,7002 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.362675,-76.711044,24510280101,true
+1459752,Dollar General 23110,Other,Other,false,4432 Park Heights Ave,Baltimore,21215,BALTIMORE CITY,39.34042,-76.667107,24510271600,true
+1387713,Us Mart,Convenience Store,Convenience store,false,2139 Dundalk Ave,Dundalk,21222,BALTIMORE,39.264965,-76.527283,,false
+1427757,Dash In 1526,Convenience Store,Convenience store,false,724 Nursery Rd,Linthicum Heights,21090,ANNE ARUNDEL,39.224773,-76.659904,,false
+1267690,5th Street Food Market,Convenience Store,Convenience store,false,439 E Patapsco Ave,Baltimore,21225,BALTIMORE CITY,39.236958,-76.604462,24510250401,true
+1577695,Parkway Exxon 1,Convenience Store,Convenience store,false,5600 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.348717,-76.692451,24510280101,true
+1570539,Eager Super Market,Convenience Store,Convenience store,false,1240 E Eager St,Baltimore,21202,BALTIMORE CITY,39.301811,-76.600494,24510100100,true
+1567602,TR Deli and Grocery,Other,Other,false,5460 Park Heights Ave,Baltimore,21215,BALTIMORE CITY,39.351448,-76.683487,24510271801,true
+1268178,Family Dollar 11850,Other,Other,false,206 North Point Blvd,Baltimore,21224,BALTIMORE,39.295391,-76.52462,,false
+1270754,Jolly Food Mart,Convenience Store,Convenience store,false,1500 N Monroe St,Baltimore,21217,BALTIMORE CITY,39.305527,-76.647934,24510150200,true
+1329574,Family Dollar 12154,Other,Other,false,5431 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.346786,-76.68885,24510271801,true
+1462057,Nyc Grocery & Tobacco1,Convenience Store,Convenience store,false,2704 W Cold Spring Ln,Baltimore,21215,BALTIMORE CITY,39.339615,-76.666588,24510271600,true
+1635453,DollarTree 10442,Other,Other,false,8050 Liberty Road,Baltimore,21244,BALTIMORE,39.354012,-76.757599,,false
+1428926,Harford Mart,Convenience Store,Convenience store,false,7330 Harford Rd,Parkville,21234,BALTIMORE CITY,39.369911,-76.546677,24510270703,true
+1330994,International Food Market,Grocery Store,Small grocery,false,7004 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.362797,-76.711304,,false
+1331391,Harvest Fare,Super Store,Full-service grocery,true,5708 Wabash Ave,Baltimore,21215,BALTIMORE CITY,39.346359,-76.697823,24510280102,true
+1331507,Market 21,Convenience Store,Convenience store,false,4300 Belair Rd,Baltimore,21206,BALTIMORE CITY,39.328777,-76.565483,24510270101,true
+1428667,Express Carryout Groceries,Convenience Store,Convenience store,false,2029 E North Ave,Baltimore,21213,BALTIMORE CITY,39.312115,-76.589546,24510080600,true
+1577238,Speedy Mart,Convenience Store,Convenience store,false,7501 Harford Rd,Parkville,21234,BALTIMORE CITY,39.370495,-76.545204,24510270501,true
+1429906,Allahi Llc,Grocery Store,Small grocery,false,6400 Baltimore National Pike,Catonsville,21228,BALTIMORE,39.284847,-76.756905,,false
+1633435,M Charles Discount Store 3,Convenience Store,Convenience store,false,2201 N Charles St,Baltimore,21218,BALTIMORE CITY,39.314369,-76.616524,24510120600,true
+1417290,Royal Farms 302,Convenience Store,Convenience store,false,613 Edmondson Ave,Catonsville,21228,BALTIMORE,39.278332,-76.730392,,false
+1417291,Royal Farms 257,Convenience Store,Convenience store,false,7560 Belair Rd,Fullerton,21236,BALTIMORE,39.365395,-76.519394,,false
+1380620,Gorsuch Grocery,Convenience Store,Convenience store,false,959 Gorsuch Ave,Baltimore,21218,BALTIMORE CITY,39.325508,-76.602745,24510090500,true
+1462997,Walbrook Fried Chicken,Grocery Store,Small grocery,false,3420 Clifton Ave,Baltimore,21216,BALTIMORE CITY,39.31118,-76.675713,24510150800,true
+1463106,Sunny Mart,Convenience Store,Convenience store,false,2549 Aisquith St,Baltimore,21218,BALTIMORE CITY,39.318661,-76.596626,24510090700,true
+1683305,Super Convenience & Phone Fix 1,Convenience Store,Convenience store,false,3020 Liberty Heights Ave,Baltimore,21215,BALTIMORE CITY,39.322838,-76.666039,24510151100,true
+960951,7-Eleven Inc F 11602,Convenience Store,Convenience store,false,8605 Old Harford Rd,Parkville,21234,BALTIMORE,39.390869,-76.543518,,false
+1464024,Adnan & Sadek,Convenience Store,Convenience store,false,1201 E Preston St,Baltimore,21202,BALTIMORE CITY,39.30492,-76.601639,24510100100,true
+1430749,Megamart Supermarket,Super Store,Full-service grocery,true,3400 Annapolis Rd,Halethorpe,21227,BALTIMORE,39.247875,-76.642044,24510250205,true
+1332605,DollarTree 7629,Other,Other,false,1700B E Northern Pkwy,Baltimore,21239,BALTIMORE CITY,39.366714,-76.583084,24510270803,true
+1357924,Family Dollar 12332,Other,Other,false,4446 Park Heights Ave,Baltimore,21215,BALTIMORE CITY,39.340923,-76.667458,24510271600,true
+1465215,Dollar Plus Mart,Grocery Store,Small grocery,false,108 S Broadway,Baltimore,21231,BALTIMORE CITY,39.290024,-76.594231,24510030100,true
+1338022,Harlem Mini Mart,Convenience Store,Convenience store,false,1133 Pennsylvania Ave,Baltimore,21201,BALTIMORE CITY,39.299374,-76.629463,24510170200,true
+1464551,Dolfield Bp,Convenience Store,Convenience store,false,3601 Dolfield Ave,Baltimore,21215,BALTIMORE CITY,39.336048,-76.675819,24510151100,true
+1500788,Walbrook Easy Mart,Convenience Store,Convenience store,false,3101 W North Ave,Baltimore,21216,BALTIMORE CITY,39.308762,-76.669449,24510150600,true
+1373812,One Stop Liquors,Convenience Store,Convenience store,false,1524 Cypress St,Curtis Bay,21226,BALTIMORE CITY,39.223888,-76.588478,24510250500,true
+1400694,Whole Foods Market 10638,Super Store,Full-service grocery,true,711 S Central Ave,Baltimore,21202,BALTIMORE CITY,39.282589,-76.598526,24510020300,true
+1432053,7-eleven 39243b,Convenience Store,Convenience store,false,3436 Wilkens Ave,Baltimore,21229,BALTIMORE CITY,39.272629,-76.675232,24510250103,true
+1338640,R & J Mart,Convenience Store,Convenience store,false,4812 Bowleys Ln,Baltimore,21206,BALTIMORE CITY,39.324326,-76.553734,24510260202,true
+1340091,Essex Fuel Mart,Convenience Store,Convenience store,false,220 Eastern Blvd,Essex,21221,BALTIMORE,39.30616,-76.480934,,false
+1408890,Luck Market,Convenience Store,Convenience store,false,2511 E Fayette St,Baltimore,21224,BALTIMORE CITY,39.294243,-76.581207,24510060200,true
+1433152,Bay Island,Grocery Store,Small grocery,false,1901 W Pratt St,Baltimore,21223,BALTIMORE CITY,39.284866,-76.646881,24510200300,true
+1452377,Belair Food Mart,Convenience Store,Convenience store,false,3213 Belair Rd,Baltimore,21213,BALTIMORE CITY,39.320839,-76.574257,24510080102,true
+1410562,Liberty BP,Convenience Store,Convenience store,false,4608 Liberty Heights Ave,Gwynn Oak,21207,BALTIMORE CITY,39.331516,-76.695213,24510280102,true
+1476033,Carney Carroll Mart,Convenience Store,Convenience store,false,9200 Harford Rd,Parkville,21234,BALTIMORE,39.390339,-76.529121,,false
+1475740,Hridima N Hridam Llc 1,Convenience Store,Convenience store,false,5110 Park Heights Ave,Baltimore,21215,BALTIMORE CITY,39.34832,-76.675209,24510271802,true
+1476138,Safeway 73,Supermarket,Full-service grocery,true,2801 Smith Ave,Baltimore,21209,BALTIMORE,39.374435,-76.690804,,false
+1436319,Royal Farms 340,Convenience Store,Convenience store,false,2000 Forest Park Ave,Baltimore,21207,BALTIMORE,39.309933,-76.708878,24510280301,true
+1422445,Eddies Of Roland Park 1,Super Store,Full-service grocery,true,5113 Roland Ave,Baltimore,21210,BALTIMORE CITY,39.355957,-76.634552,24510271300,true
+1452935,Royal Farms 229,Convenience Store,Convenience store,false,5801 Eastern Ave,Baltimore,21224,BALTIMORE CITY,39.286747,-76.545784,24510260501,true
+1422573,Royal Farms 19,Convenience Store,Convenience store,false,601 Southwick Dr,Towson,21286,BALTIMORE,39.406197,-76.581833,,false
+1422423,Eddies Of Roland Park 2,Super Store,Full-service grocery,true,6213 N Charles St,Baltimore,21212,BALTIMORE,39.378117,-76.62603,,false
+1412036,Sprouts Famers Market 920,Supermarket,Full-service grocery,true,3800 Boston St,Baltimore,21224,BALTIMORE CITY,39.277279,-76.561737,24510260605,true
+1476592,Parklane Tobacco & Grocery Inc,Convenience Store,Convenience store,false,3000 Wylie Ave,Baltimore,21215,BALTIMORE CITY,39.34211,-76.665253,24510271600,true
+1424285,Moravia Shell Gas Station 1502,Convenience Store,Convenience store,false,5920 Moravia Rd,Baltimore,21206,BALTIMORE CITY,39.316563,-76.544533,24510260402,true
+1404501,Family Dollar 13001,Other,Other,false,3425 Belair Rd,Baltimore,21213,BALTIMORE CITY,39.323048,-76.571594,24510260301,true
+1405205,Family Dollar 12542,Other,Other,false,1521 Harford Ave,Baltimore,21202,BALTIMORE CITY,39.307518,-76.600342,24510090900,true
+1423618,Elmora Grocery,Convenience Store,Convenience store,false,3342 Elmora Ave,Baltimore,21213,BALTIMORE CITY,39.316086,-76.57589,24510080102,true
+1455148,DollarTree 8738,Other,Other,false,5618 The Alameda,Baltimore,21239,BALTIMORE CITY,39.358116,-76.5951,24510270802,true
+1454701,STREETS MARKET,Supermarket,Full-service grocery,true,3117 Saint Paul St,Baltimore,21218,BALTIMORE CITY,39.326031,-76.615738,24510120202,true
+1455150,DollarTree 8801,Other,Other,false,6320 Ritchie Hwy,Glen Burnie,21061,ANNE ARUNDEL,39.203049,-76.615257,,false
+1454118,Foods 2 Go Grocery & Deli,Convenience Store,Convenience store,false,1501 W Baltimore St,Baltimore,21223,BALTIMORE CITY,39.288166,-76.641129,24510190200,true
+1455202,Crestlyn Mart Llc,Convenience Store,Convenience store,false,3838 Crestlyn Rd,Baltimore,21218,BALTIMORE CITY,39.335686,-76.598656,24510090100,true
+1478314,Mo Grocery,Convenience Store,Convenience store,false,700 N Kenwood Ave,Baltimore,21205,BALTIMORE CITY,39.29911,-76.578323,24510070200,true
+1478171,7-eleven 23698f,Convenience Store,Convenience store,false,6401 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.355881,-76.701492,24510272006,true
+1513539,Exxon,Convenience Store,Convenience store,false,7415 Windsor Mill Rd,Windsor Mill,21244,BALTIMORE,39.340958,-76.762077,,false
+1426272,Royal Farms 346,Convenience Store,Convenience store,false,1202 South Caton Ave,Baltimore,21227,BALTIMORE,39.268429,-76.668777,24510250103,true
+1425651,Crispy Crunchy Convenience Store,Convenience Store,Convenience store,false,400 S Broadway,Baltimore,21231,BALTIMORE CITY,39.28653,-76.593697,24510030100,true
+1425352,Dollar General 22296,Other,Other,false,6639 Belair Rd,Baltimore,21206,BALTIMORE CITY,39.354698,-76.530159,24510260101,true
+1653900,Krissy's,Convenience Store,Convenience store,false,3102 W Baltimore St,Baltimore,21229,BALTIMORE CITY,39.285946,-76.67009,24510200600,true
+1680607,Kdkr Brothers 1,Convenience Store,Convenience store,false,6606 Belair Rd,Baltimore,21206,BALTIMORE CITY,39.35437,-76.53183,24510270502,true
+1657975,7-eleven 26253C,Convenience Store,Convenience store,false,7901 Wise Ave,Dundalk,21222,BALTIMORE,39.266171,-76.495094,,false
+1683853,One Stop Deli Grocery 1,Convenience Store,Convenience store,false,1300 N Caroline St,Baltimore,21213,BALTIMORE CITY,39.305321,-76.598312,24510090900,true
+1679463,Edison Food Mart 1,Convenience Store,Convenience store,false,1501 Edison Hwy,Baltimore,21213,BALTIMORE CITY,39.309032,-76.572472,24510260404,true
+1689740,Broway Mart,Convenience Store,Convenience store,false,1000 N Broadway,Baltimore,21205,BALTIMORE CITY,39.301987,-76.594864,24510080800,true
+1415892,Wawa Store 8511,Convenience Store,Convenience store,false,4901 Boston St,Baltimore,21224,BALTIMORE CITY,39.276711,-76.553856,24510260605,true
+1627171,District Tobacco 1,Convenience Store,Convenience store,false,5443 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.347679,-76.689468,24510271801,true
+1628329,Hana Grocery,Convenience Store,Convenience store,false,1547 Ramsay St,Baltimore,21223,BALTIMORE CITY,39.283119,-76.641937,24510190200,true
+1586568,Mt. Washington Farmers Market NAFMNP,Farmers and Markets,Farmers market,false,2101 W Rogers Ave,Baltimore,21209,BALTIMORE CITY,39.357533,-76.658646,24510271501,true
+1574442,Woodlawn Mart,Convenience Store,Convenience store,false,1818 Woodlawn Dr,Gwynn Oak,21207,BALTIMORE,39.317554,-76.737961,,false
+1558931,Sea Top Grocery,Convenience Store,Convenience store,false,4420 Pennington Ave,Curtis Bay,21226,BALTIMORE CITY,39.225487,-76.588692,24510250500,true
+1480314,7-eleven 21980b,Convenience Store,Convenience store,false,1611 Edmondson Ave,Catonsville,21228,BALTIMORE,39.273155,-76.752663,,false
+1481197,Ez Mart Tobacco Grocery 1,Convenience Store,Convenience store,false,540 E Patapsco Ave,Brooklyn,21225,BALTIMORE CITY,39.236565,-76.602425,24510250401,true
+1490907,Waterview Bp,Convenience Store,Convenience store,false,2920 Waterview Ave,Baltimore,21230,BALTIMORE CITY,39.257446,-76.632545,24510250207,true
+1679901,Citgo Harford Road no,Convenience Store,Convenience store,false,2330 Harford Rd,Baltimore,21218,BALTIMORE CITY,39.316509,-76.596275,24510090800,true
+1491121,Skyline Smoke Shop1 Llc,Convenience Store,Convenience store,false,3131 W Belvedere Ave,Baltimore,21215,BALTIMORE CITY,39.34943,-76.674957,24510271700,true
+1168047,Honey Carryout,Convenience Store,Convenience store,false,400 E Federal St,Baltimore,21202,BALTIMORE CITY,39.307949,-76.61055,24510120500,true
+1491197,Global Food 8,Supermarket,Full-service grocery,true,6606 Security Blvd,Gwynn Oak,21207,BALTIMORE,39.313381,-76.737076,,false
+1483121,Weis Markets 87,Supermarket,Full-service grocery,true,9613 Harford Rd,Parkville,21234,BALTIMORE,39.395542,-76.521439,,false
+1457204,Tobacco Heaven and Grocery,Convenience Store,Convenience store,false,4901 Frankford Ave,Baltimore,21206,BALTIMORE CITY,39.330833,-76.543678,24510260201,true
+586886,7 Star Convenience Store,Convenience Store,Convenience store,false,3201 W North Ave,Baltimore,21216,BALTIMORE CITY,39.308575,-76.671257,24510150600,true
+1684647,Phillips 66 Mart,Convenience Store,Convenience store,false,2000 Haines St,Baltimore,21230,BALTIMORE CITY,39.272438,-76.629364,24510210100,true
+1498407,Lifeway Pharmacy Llc,Grocery Store,Small grocery,false,700 Merritt Blvd,Dundalk,21222,BALTIMORE,39.288029,-76.50634,,false
+1516624,Georges Meats And Grocery,Convenience Store,Convenience store,false,3600 Parkdale Ave,Baltimore,21211,BALTIMORE CITY,39.332054,-76.648666,24510130806,true
+1484024,Taylor Market & Tobacco 1,Convenience Store,Convenience store,false,4123 Frederick Ave,Baltimore,21229,BALTIMORE CITY,39.281456,-76.684464,24510200800,true
+1499105,7-eleven 27340d,Convenience Store,Convenience store,false,3601 Falls Rd,Baltimore,21211,BALTIMORE CITY,39.331329,-76.634621,24510130600,true
+1484177,Evergreen,Convenience Store,Convenience store,false,6819 Loch Raven Blvd,Towson,21286,BALTIMORE,39.383091,-76.57756,,false
+1484355,U S Gas,Convenience Store,Convenience store,false,1463 Washington Blvd,Baltimore,21230,BALTIMORE CITY,39.278549,-76.637589,24510210200,true
+1679302,Good Luck Market & Deli,Convenience Store,Convenience store,false,2649 Chesterfield Ave,Baltimore,21213,BALTIMORE CITY,39.327282,-76.573532,24510080101,true
+1484702,Patapsco Gas,Convenience Store,Convenience store,false,3550 Potee St,Brooklyn,21225,BALTIMORE CITY,39.23941,-76.611237,24510250401,true
+1483612,Whole Foods Market 10769,Super Store,Full-service grocery,true,300 Towson Row,Towson,21204,BALTIMORE,39.394817,-76.618141,,false
+1492234,Irvington Crown,Convenience Store,Convenience store,false,4122 Frederick Ave,Baltimore,21229,BALTIMORE CITY,39.281952,-76.684258,24510200800,true
+1498998,Montford Grocery Tobacco,Convenience Store,Convenience store,false,847 N Montford Ave,Baltimore,21205,BALTIMORE CITY,39.300804,-76.583626,24510070200,true
+1483725,Meena Group Inc,Convenience Store,Convenience store,false,750 E 25th St,Baltimore,21218,BALTIMORE CITY,39.318676,-76.603859,24510090800,true
+1492654,Potomac Deli & Grocery,Convenience Store,Convenience store,false,1201 N Potomac St,Baltimore,21213,BALTIMORE CITY,39.305145,-76.575386,24510080302,true
+1493288,Perring Exxon,Convenience Store,Convenience store,false,7301 McClean Blvd,Parkville,21234,BALTIMORE CITY,39.372292,-76.566849,,false
+1493462,Monument Grocery,Convenience Store,Convenience store,false,2342 E Monument St,Baltimore,21205,BALTIMORE CITY,39.298962,-76.58387,24510070300,true
+1518127,Something Fresh,Convenience Store,Convenience store,false,2101 E Monument St,Baltimore,21205,BALTIMORE CITY,39.298092,-76.587532,24510070300,true
+1519054,Moes Mini Mart,Convenience Store,Convenience store,false,4900 Bowleys Ln,Baltimore,21206,BALTIMORE CITY,39.324093,-76.553368,24510260202,true
+1677727,Royal Mart & Deli,Convenience Store,Convenience store,false,1110 Ingleside Ave,Woodlawn,21207,BALTIMORE,39.293716,-76.730583,,false
+1505245,Cravin Crabs,Specialty Store,Specialty store,false,4609 Annapolis Rd,Halethorpe,21227,BALTIMORE,39.227711,-76.640854,,false
+1505317,Lolo's Market,Grocery Store,Small grocery,false,1002 Taylor Ave,Towson,21286,BALTIMORE,39.385223,-76.574837,,false
+1485760,Seafood Day To Day,Specialty Store,Specialty store,false,2302A Wilkens Ave,Baltimore,21223,BALTIMORE CITY,39.28019,-76.652359,24510200500,true
+1501100,Sun M Food Market,Convenience Store,Convenience store,false,2646 Polk St,Baltimore,21218,BALTIMORE CITY,39.32021,-76.595238,24510090700,true
+1536368,Hamilton Parkway,Convenience Store,Convenience store,false,2301 E Northern Pkwy,Baltimore,21214,BALTIMORE CITY,39.367912,-76.566719,24510270702,true
+1636193,Thomas' Green Farm,Farmers and Markets,Farmers market,false,953 Saint Agnes Ln,Gwynn Oak,21207,BALTIMORE,39.293129,-76.719101,,false
+1649745,Latinos Supermarket Corp,Grocery Store,Small grocery,false,3558 S Hanover St,Brooklyn,21225,BALTIMORE CITY,39.239002,-76.609581,24510250401,true
+1493550,Brothers Group Llc 1,Convenience Store,Convenience store,false,1702 Yakona Rd,Parkville,21234,BALTIMORE,39.395927,-76.562744,,false
+1468618,Erdman Exxon,Convenience Store,Convenience store,false,3320 Erdman Ave,Baltimore,21213,BALTIMORE CITY,39.320095,-76.571243,24510260301,true
+552735,The Corner Crab House,Grocery Store,Small grocery,false,4600 Erdman Ave,Baltimore,21205,BALTIMORE CITY,39.308838,-76.561707,24510260401,true
+1468837,American Market 1,Convenience Store,Convenience store,false,2452 Washington Blvd,Baltimore,21230,BALTIMORE CITY,39.267517,-76.651978,24510250303,true
+1320817,Mariquita Deli And Grocery,Convenience Store,Convenience store,false,229 N Monroe St,Baltimore,21223,BALTIMORE CITY,39.291389,-76.647079,24510200100,true
+1468889,Strength To Love 2 NAFMNP,Farmers and Markets,Farmers market,false,1855 Kavanaugh St,Baltimore,21217,BALTIMORE CITY,39.304543,-76.647697,24510150200,true
+1469975,BWI Exxon,Convenience Store,Convenience store,false,500 Progress Dr,Linthicum Heights,21090,ANNE ARUNDEL,39.216686,-76.675652,,false
+1519725,Al Wahid Foods,Grocery Store,Small grocery,false,1724 Woodlawn Dr,Gwynn Oak,21207,BALTIMORE,39.31588,-76.739471,,false
+1519510,Harford Seafood Market 1,Other,Other,false,6800 Harford Rd,Parkville,21234,BALTIMORE CITY,39.364773,-76.551201,24510270703,true
+1685022,Prime Wholesale,Convenience Store,Convenience store,false,9502 Harford Rd,Parkville,21234,BALTIMORE,39.393646,-76.526176,,false
+1502687,St. Mary's Convenience Store,Convenience Store,Convenience store,false,923 E Patapsco Ave,Brooklyn,21225,BALTIMORE CITY,39.234264,-76.596893,24510250402,true
+1470596,7-eleven 20772d,Convenience Store,Convenience store,false,1808 Woodlawn Dr,Gwynn Oak,21207,BALTIMORE,39.316513,-76.737862,,false
+1672751,Exxon Gas Station,Convenience Store,Convenience store,false,1300 Merritt Blvd,Dundalk,21222,BALTIMORE,39.2799,-76.505623,,false
+1503014,Ae Corner Market I Inc,Convenience Store,Convenience store,false,2201 W Baltimore St,Baltimore,21223,BALTIMORE CITY,39.287777,-76.651611,24510200400,true
+1507638,Lidl 1459,Super Store,Full-service grocery,true,1504 Havenwood Rd,Baltimore,21218,BALTIMORE CITY,39.340748,-76.591774,24510270903,true
+1538167,H-mag Llc,Convenience Store,Convenience store,false,313 W Madison St,Baltimore,21201,BALTIMORE CITY,39.298222,-76.62088,24510170100,true
+1682199,Patapsco Convenience 1,Convenience Store,Convenience store,false,1439 W Patapsco Ave,Baltimore,21230,BALTIMORE CITY,39.248356,-76.639526,24510250205,true
+1538290,Two Brothers Mini Mart,Convenience Store,Convenience store,false,3601 Brehms Ln,Baltimore,21213,BALTIMORE CITY,39.320522,-76.56768,24510260301,true
+1471499,Sunny Market,Convenience Store,Convenience store,false,1739 N Payson St,Baltimore,21217,BALTIMORE CITY,39.308628,-76.649574,24510150200,true
+1080025,Garrison Deli & Grocery Inc,Grocery Store,Small grocery,false,2109 Garrison Blvd,Baltimore,21216,BALTIMORE CITY,39.311344,-76.675064,24510150800,true
+1487354,Dollar General 23967,Other,Other,false,923 N Caroline St,Baltimore,21205,BALTIMORE CITY,39.300991,-76.596558,24510070400,true
+1504191,Dollar General 23739,Other,Other,false,4020 Frederick Ave,Baltimore,21229,BALTIMORE CITY,39.282536,-76.682907,24510200800,true
+1496766,Sion's Bakery,Specialty Store,Specialty store,false,303 Reisterstown Rd,Pikesville,21208,BALTIMORE,39.366558,-76.714844,,false
+1503959,Food City,Convenience Store,Convenience store,false,3300 Eastern Ave,Baltimore,21224,BALTIMORE CITY,39.286709,-76.569801,24510261100,true
+1508971,Falls Road Shell,Supermarket,Other,false,5501 Falls Rd,Baltimore,21209,BALTIMORE CITY,39.361771,-76.645981,24510271300,true
+1539681,Oakley Grocery And Tobacco,Convenience Store,Convenience store,false,2864 Oakley Ave,Baltimore,21215,BALTIMORE CITY,39.349037,-76.668846,24510271700,true
+1508308,Savemart Supermarket Baltimore,Super Store,Full-service grocery,true,6500 Eastern Ave,Baltimore,21224,BALTIMORE CITY,39.28904,-76.536186,24510260501,true
+1544275,Us Fuel,Convenience Store,Convenience store,false,6100 Moravia Park Dr,Baltimore,21206,BALTIMORE CITY,39.315266,-76.539452,24510260402,true
+1547224,MD Convenience Store,Convenience Store,Convenience store,false,3101 E Monument St,Baltimore,21205,BALTIMORE CITY,39.299026,-76.573662,24510070100,true
+845100,Food Depot,Super Store,Full-service grocery,true,2495 Frederick Ave,Baltimore,21223,BALTIMORE CITY,39.282703,-76.653397,24510200500,true
+1692585,Govens Marathon,Convenience Store,Convenience store,false,5101 York Rd,Baltimore,21212,BALTIMORE CITY,39.350479,-76.609406,24510271002,true
+1652578,Shin Asian Market,Convenience Store,Convenience store,false,1307 Francis Ave,Halethorpe,21227,BALTIMORE,39.23806,-76.695335,,false
+1662916,Wawa Store 8544,Convenience Store,Convenience store,false,8100 Belair Rd,Nottingham,21236,BALTIMORE,39.377174,-76.50592,,false
+1510278,Royal Farms 374,Convenience Store,Convenience store,false,6430 Baltimore National Pike,Catonsville,21228,BALTIMORE,39.285473,-76.759041,,false
+1510441,Dash In 1518,Convenience Store,Convenience store,false,1517 S Caton Ave,Halethorpe,21227,BALTIMORE,39.261112,-76.664749,24510250206,true
+1283819,Dundalk Bp dundalk b1,Convenience Store,Convenience store,false,2100 Merritt Blvd,Dundalk,21222,BALTIMORE,39.258018,-76.511215,,false
+1596129,Hazlo International Foods,Super Store,Full-service grocery,true,3800 E Lombard St,Baltimore,21224,BALTIMORE CITY,39.292194,-76.564346,24510260800,true
+1063918,A 1 Food Mart,Convenience Store,Convenience store,false,3603 W Caton Ave,Baltimore,21229,BALTIMORE CITY,39.288338,-76.676697,24510200701,true
+1215743,A&Y Grocery Store,Convenience Store,Convenience store,false,200 N Hilton St,Baltimore,21229,BALTIMORE CITY,39.288769,-76.672752,24510200701,true
+1511593,Westport Liquors Foodmart 1,Grocery Store,Small grocery,false,2244 Annapolis Rd,Baltimore,21230,BALTIMORE CITY,39.263626,-76.633942,24510250301,true
+1511598,Pantry One Food Mart,Convenience Store,Convenience store,false,5314 East Dr,Halethorpe,21227,BALTIMORE,39.249325,-76.69397,,false
+1548773,New City Mart,Convenience Store,Convenience store,false,1184 Washington Blvd,Baltimore,21230,BALTIMORE CITY,39.28194,-76.634056,24510210200,true
+1511934,Good Brother 1 Llc,Convenience Store,Convenience store,false,3305 Edgewood St,Baltimore,21216,BALTIMORE CITY,39.324203,-76.675026,24510150800,true
+1541786,Durkrishna,Convenience Store,Convenience store,false,825 Dulaney Valley Rd,Towson,21204,BALTIMORE,39.404873,-76.599998,,false
+1549684,Family Grocery Lllc,Convenience Store,Convenience store,false,1446 N Bond St,Baltimore,21213,BALTIMORE CITY,39.307274,-76.597,24510080700,true
+1541324,Godwin Mini Market LLC,Convenience Store,Convenience store,false,1200 W Lombard St,Baltimore,21223,BALTIMORE CITY,39.286777,-76.636772,24510180300,true
+1673147,Sam's Club 6650,Super Store,Other,false,6410 Petrie Way,Rosedale,21237,BALTIMORE,39.334053,-76.487518,,false
+1303758,Speedy Mart,Convenience Store,Convenience store,false,1697 N Forest Park Ave,Gwynn Oak,21207,BALTIMORE,39.299511,-76.712051,,false
+1245120,7-Eleven 22360,Convenience Store,Convenience store,false,5512 Park Heights Ave,Baltimore,21215,BALTIMORE CITY,39.352215,-76.684105,24510271900,true
+1018752,7-Eleven Inc F 11549,Convenience Store,Convenience store,false,1117 N Rolling Rd,Catonsville,21228,BALTIMORE,39.286095,-76.752701,,false
+993146,7-Eleven Inc F 34125,Convenience Store,Convenience store,false,6314 Eastern Ave,Baltimore,21224,BALTIMORE CITY,39.287769,-76.539284,24510260501,true
+1252447,Merritt Bp Carwash,Convenience Store,Convenience store,false,800 Merritt Blvd,Dundalk,21222,BALTIMORE,39.286907,-76.506027,,false
+899997,7-Eleven Inc F 21051,Convenience Store,Convenience store,false,620 Reisterstown Rd,Pikesville,21208,BALTIMORE,39.369331,-76.718658,,false
+1474895,Ogm Carryout NO,Convenience Store,Convenience store,false,1837 Edmondson Ave,Baltimore,21223,BALTIMORE CITY,39.29493,-76.647125,24510160400,true
+1475253,Agrihood Baltimore 0770532,Farmers and Markets,Farmers market,false,3811 Park Heights Ave,Baltimore,21215,BALTIMORE CITY,39.332291,-76.660851,24510151200,true
+1551834,Wawa Store 8540,Convenience Store,Convenience store,false,7501 Pulaski Hwy,Rosedale,21237,BALTIMORE,39.31171,-76.5252,,false
+1551660,Swadesh,Other,Other,false,8615 Ridgelys Choice Dr,Nottingham,21236,BALTIMORE,39.389915,-76.492134,,false
+1654152,Falls Food Mart 1,Convenience Store,Convenience store,false,4535 Falls Rd,Baltimore,21209,BALTIMORE CITY,39.344387,-76.640228,24510271400,true
+1277534,Latino & American Mini Market 1,Grocery Store,Small grocery,false,19 S Highland Ave,Baltimore,21224,BALTIMORE CITY,39.291962,-76.569336,24510260800,true
+1309169,J & H Market,Grocery Store,Small grocery,false,1813 Baker St,Baltimore,21217,BALTIMORE CITY,39.306591,-76.647263,24510150200,true
+780123,All In One International Market,Grocery Store,Small grocery,false,6521 Harford Rd,Baltimore,21214,BALTIMORE CITY,39.362278,-76.55246,24510270502,true
+1059589,Druid Hill Farmers Market,Farmers and Markets,Farmers market,false,3100 Swann Dr,Baltimore,21217,BALTIMORE CITY,39.316845,-76.646561,24510130400,true
+1529053,Quick Mart,Convenience Store,Convenience store,false,8604 Loch Raven Blvd,Towson,21286,BALTIMORE,39.395241,-76.563629,,false
+1182884,Belair Crown,Convenience Store,Convenience store,false,5901 Belair Rd,Baltimore,21206,BALTIMORE CITY,39.345379,-76.541222,24510260101,true
+1697205,Afz Quick Stop,Convenience Store,Convenience store,false,5501 1/2 York Rd,Baltimore,21212,BALTIMORE CITY,39.356647,-76.60968,24510270805,true
+1643664,K&N Grocery Tobacco,Convenience Store,Convenience store,false,3403A Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.326836,-76.658401,24510151200,true
+1528992,Bd Food Mart,Convenience Store,Convenience store,false,1009 E Patapsco Ave,Brooklyn,21225,BALTIMORE CITY,39.233978,-76.595421,24510250500,true
+880502,B Js Wholesale Club 40,Super Store,Full-service grocery,true,4201 Wholesale Club Dr,Nottingham,21236,BALTIMORE,39.379765,-76.499214,,false
+1212224,Abinet Ethiopian Market 2,Grocery Store,Small grocery,false,332 Park Ave,Baltimore,21201,BALTIMORE CITY,39.293907,-76.61821,24510040100,true
+1058310,J & C Bakery,Specialty Store,Specialty store,false,1700 Pennsylvania Ave,Baltimore,21217,BALTIMORE CITY,39.30415,-76.635452,24510140200,true
+1129150,Happiness Grocery,Grocery Store,Small grocery,false,4717 Eastern Ave,Baltimore,21224,BALTIMORE CITY,39.287045,-76.555992,24510260700,true
+1553762,Towson A Plus,Convenience Store,Convenience store,false,313 E Joppa Rd,Towson,21286,BALTIMORE,39.401642,-76.597137,,false
+1553781,DollarTree 8910,Other,Other,false,5210 Baltimore National Pike,Baltimore,21229,BALTIMORE,39.292137,-76.715195,,false
+1553246,DollarTree 9411,Other,Other,false,3804 Liberty Heights Ave,Baltimore,21215,BALTIMORE CITY,39.327377,-76.681335,24510151000,true
+1610961,Mercy Mini Market,Convenience Store,Convenience store,false,3038 Baker St,Baltimore,21216,BALTIMORE CITY,39.306053,-76.668983,24510160700,true
+1553627,Food City,Convenience Store,Convenience store,false,4000 Park Heights Ave,Baltimore,21215,BALTIMORE CITY,39.334476,-76.663239,24510151300,true
+1086735,A & B Market,Convenience Store,Convenience store,false,1441 N Central Ave,Baltimore,21202,BALTIMORE CITY,39.30714,-76.60038,24510090900,true
+1272569,Jalapenos 1,Supermarket,Full-service grocery,true,1790 Merritt Blvd,Dundalk,21222,BALTIMORE,39.267879,-76.506271,,false
+1291265,Kenwood Liberty,Convenience Store,Convenience store,false,8500 Philadelphia Rd,Rosedale,21237,BALTIMORE,39.331116,-76.499504,,false
+1232523,K & K Food Market,Convenience Store,Convenience store,false,2100 Druid Hill Ave,Baltimore,21217,BALTIMORE CITY,39.308338,-76.636459,24510140300,true
+1205989,Gordon's Cut Rate,Convenience Store,Convenience store,false,1655 N Monroe St,Baltimore,21217,BALTIMORE CITY,39.307743,-76.648018,24510150200,true
+1215817,Dundalk Shell 2,Convenience Store,Convenience store,false,7900 Wise Ave,Dundalk,21222,BALTIMORE,39.266956,-76.494942,,false
+1661856,Main Street Mart,Convenience Store,Convenience store,false,789 Washington Blvd,Baltimore,21230,BALTIMORE CITY,39.282841,-76.628639,24510210100,true
+1129664,Save Mart,Super Store,Full-service grocery,true,3901 Hollins Ferry Rd,Halethorpe,21227,BALTIMORE,39.243187,-76.649796,,false
+1253118,Torres Deli Grocery 2,Convenience Store,Convenience store,false,401 Furrow St,Baltimore,21223,BALTIMORE CITY,39.282784,-76.651825,24510200500,true
+901123,Sams Lobby Shop,Convenience Store,Convenience store,false,10 N Calvert St,Baltimore,21202,BALTIMORE CITY,39.290226,-76.612846,24510040100,true
+1174938,Sunshine Market,Convenience Store,Convenience store,false,2253 McElderry St,Baltimore,21205,BALTIMORE CITY,39.297585,-76.58519,24510070300,true
+1168033,JK Grocery,Convenience Store,Convenience store,false,1428 Madison Ave,Baltimore,21217,BALTIMORE CITY,39.304504,-76.629036,24510140200,true
+994221,Niki Food Mart And Lottery,Convenience Store,Convenience store,false,6301 Kenwood Ave,Rosedale,21237,BALTIMORE,39.340256,-76.505707,,false
+1300867,VMart,Grocery Store,Small grocery,false,8837A Belair Rd,Nottingham,21236,BALTIMORE,39.395885,-76.483589,,false
+1014965,Golden Ring Exxon,Convenience Store,Convenience store,false,8605 Philadelphia Rd,Rosedale,21237,BALTIMORE,39.333736,-76.495354,,false
+1100830,University Grocery,Convenience Store,Convenience store,false,2701 W North Ave,Baltimore,21216,BALTIMORE CITY,39.309273,-76.661171,24510150600,true
+829656,Sunfresh Produce Inc,Supermarket,Full-service grocery,true,806 Reisterstown Rd,Pikesville,21208,BALTIMORE,39.37183,-76.720589,,false
+746716,Super Variedades Portillo,Grocery Store,Small grocery,false,203 S Broadway,Baltimore,21231,BALTIMORE CITY,39.289082,-76.593575,24510020200,true
+1117005,Ha Market,Grocery Store,Small grocery,false,617 Oldham St,Baltimore,21224,BALTIMORE CITY,39.285603,-76.555656,24510260700,true
+1664592,Milton Ave Mini Mart,Convenience Store,Convenience store,false,242 N Milton Ave,Baltimore,21224,BALTIMORE CITY,39.295509,-76.582321,24510060200,true
+1060858,Jimmys Grocery,Grocery Store,Small grocery,false,700 Linnard St,Baltimore,21229,BALTIMORE CITY,39.295311,-76.676483,24510160802,true
+1661384,"7-eleven #41626b 41626b",Convenience Store,Convenience store,false,3360 Annapolis Rd,Baltimore,21230,BALTIMORE CITY,39.248718,-76.640244,24510250205,true
+1672974,Harris Teeter 392,Super Store,Full-service grocery,true,3779 Boston St,Baltimore,21224,BALTIMORE CITY,39.274914,-76.564789,24510260605,true
+1309166,Damaskino,Grocery Store,Small grocery,false,1704 Taylor Ave,Parkville,21234,BALTIMORE,39.381535,-76.560616,,false
+1020921,Super Fresh Halal Meat,Grocery Store,Small grocery,false,6600 Baltimore National Pike,Catonsville,21228,BALTIMORE,39.287727,-76.764381,,false
+1646858,Sheetz 869,Convenience Store,Convenience store,false,1441 W Nursery Rd,Linthicum Heights,21090,ANNE ARUNDEL,39.21487,-76.676514,,false
+1574895,7-eleven 35729b,Convenience Store,Convenience store,false,6232 Belair Rd,Baltimore,21206,BALTIMORE CITY,39.351143,-76.535378,24510270401,true
+1556719,CVS/Pharmacy 2045,Other,Other,false,2911 E Joppa Rd,Parkville,21234,BALTIMORE,39.395409,-76.525391,,false
+1192947,New Foodway's,Grocery Store,Small grocery,false,1501 Broening Hwy,Baltimore,21224,BALTIMORE CITY,39.274834,-76.543488,24510260605,true
+1585365,Luckies Market Eutaw,Convenience Store,Convenience store,false,2502 Eutaw Pl,Baltimore,21217,BALTIMORE CITY,39.315063,-76.638992,24510130100,true
+1277474,Overlea Farmers Market,Farmers and Markets,Farmers market,false,6908 Belair Rd,Baltimore,21206,BALTIMORE,39.357334,-76.52774,,false
+1179022,Latin Connection,Grocery Store,Small grocery,false,4215 Annapolis Rd,Halethorpe,21227,BALTIMORE,39.236599,-76.641266,,false
+821266,First Stop Convenience Store,Convenience Store,Convenience store,false,6098 Radecke Ave,Baltimore,21206,BALTIMORE CITY,39.332108,-76.527252,,false
+1291011,Ch & Aj Llc dba Super 24 Latino,Grocery Store,Small grocery,false,706 Crain Hwy N,Glen Burnie,21061,ANNE ARUNDEL,39.175003,-76.61956,,false
+1285980,Dahj Llcdba Bernal's Deli Grocery,Convenience Store,Convenience store,false,1131 W Cross St,Baltimore,21230,BALTIMORE CITY,39.281586,-76.631157,24510210200,true
+1274925,Clark Bey's Grocery & Deli,Convenience Store,Convenience store,false,1522 N Ellamont St,Baltimore,21216,BALTIMORE CITY,39.304977,-76.670731,24510160700,true
+1257374,7-eleven 37055A,Convenience Store,Convenience store,false,38 S Paca St,Baltimore,21201,BALTIMORE CITY,39.287899,-76.622261,24510040100,true
+1294318,Bok Grocery,Convenience Store,Convenience store,false,2665 Dulany St,Baltimore,21223,BALTIMORE CITY,39.27948,-76.658325,24510200500,true
+1589376,Apple 1 Mini Mart,Convenience Store,Convenience store,false,1388 Taylor Ave,Parkville,21234,BALTIMORE,39.383411,-76.570328,,false
+825391,Sunny Grocery,Convenience Store,Convenience store,false,3809 Old York Rd,Baltimore,21218,BALTIMORE CITY,39.335861,-76.607483,24510090100,true
+1238980,MOM's Organic Market 15,Super Store,Full-service grocery,true,711 West 40th Street,Baltimore,21211,BALTIMORE CITY,39.337093,-76.630676,24510130700,true
+1018018,Inner Harbor Exxon,Convenience Store,Convenience store,false,1800 Russell St,Baltimore,21230,BALTIMORE CITY,39.272324,-76.630211,24510210200,true
+1282184,7-eleven 27739B,Convenience Store,Convenience store,false,729 E 25th St,Baltimore,21218,BALTIMORE CITY,39.31794,-76.602852,24510090800,true
+971553,Duck's Nest Seafood,Specialty Store,Specialty store,false,6200 Hazelwood Ave,Rosedale,21237,BALTIMORE,39.341084,-76.506317,,false
+1300255,7-Eleven 37043A,Convenience Store,Convenience store,false,300 N Charles St,Baltimore,21201,BALTIMORE CITY,39.292664,-76.615601,24510040100,true
+1126711,Cinco De Mayo Dos,Grocery Store,Small grocery,false,1312 Eastern Ave,Baltimore,21231,BALTIMORE CITY,39.285374,-76.598984,24510030100,true
+1121206,Star Moon,Grocery Store,Small grocery,false,2460 W Baltimore St,Baltimore,21223,BALTIMORE CITY,39.287777,-76.656334,24510200400,true
+1678932,Hillen Deli & Convineince Inc,Convenience Store,Convenience store,false,2837 Hillen Rd,Baltimore,21218,BALTIMORE CITY,39.324192,-76.588272,24510090600,true
+1050949,Jalapenos Market Inc,Other,Other,false,7128 Ritchie Hwy,Glen Burnie,21061,ANNE ARUNDEL,39.17944,-76.615128,,false
+1156970,Shoprite Of Liberty Heights 568,Super Store,Full-service grocery,true,4601 Liberty Heights Ave,Gwynn Oak,21207,BALTIMORE CITY,39.330151,-76.695648,24510280200,true
+1003980,Kenilworth Farmers Market Inc.,Farmers and Markets,Farmers market,false,798 Kenilworth Dr,Towson,21204,BALTIMORE,39.410748,-76.618729,,false
+1698278,Bolton Hill Food Center 1,Convenience Store,Convenience store,false,1111 Park Ave,Baltimore,21201,BALTIMORE CITY,39.305317,-76.62188,24510140100,true
+1673091,Walmart 2248,Super Store,Full-service grocery,true,6205 Baltimore National Pike,Catonsville,21228,BALTIMORE,39.28175,-76.751183,,false
+1529641,Kenwood Grocery,Convenience Store,Convenience store,false,530 N Kenwood Ave,Baltimore,21205,BALTIMORE CITY,39.297787,-76.578224,24510070200,true
+903882,7-Eleven Inc F 22467,Convenience Store,Convenience store,false,6315 Sherwood Rd,Baltimore,21239,BALTIMORE,39.373219,-76.595085,,false
+1178923,Ken Grocery,Convenience Store,Convenience store,false,2601 Edmondson Ave,Baltimore,21223,BALTIMORE CITY,39.294563,-76.659523,24510160600,true
+1045086,Liberty Seafood,Specialty Store,Specialty store,false,8015 Liberty Rd,Windsor Mill,21244,BALTIMORE,39.352325,-76.755333,,false
+1247302,Cherry Hill Mart,Convenience Store,Convenience store,false,661 Cherry Hill Rd,Brooklyn,21225,BALTIMORE CITY,39.249763,-76.62339,24510250203,true
+873230,Target Store 1142,Super Store,Full-service grocery,true,1238 Putty Hill Ave,Towson,21286,BALTIMORE,39.395088,-76.581215,,false
+1113686,Punjab Supermarket 1,Other,Other,false,8767 Philadelphia Rd,Rosedale,21237,BALTIMORE,39.339893,-76.484764,,false
+1218215,One Stop Express Mart,Convenience Store,Convenience store,false,8602 Old Harford Rd,Parkville,21234,BALTIMORE,39.390591,-76.543678,,false
+1308028,7-eleven 25816c,Convenience Store,Convenience store,false,6001 Harford Rd,Baltimore,21214,BALTIMORE CITY,39.356796,-76.557495,24510270502,true
+1157166,Happy Market,Grocery Store,Small grocery,false,1001 Greenmount Ave,Baltimore,21202,BALTIMORE CITY,39.301418,-76.607216,24510100100,true
+1127054,7-Eleven Inc F 23428E,Convenience Store,Convenience store,false,5617 Ritchie Hwy,Brooklyn,21225,ANNE ARUNDEL,39.218491,-76.613617,,false
+1225516,Always Grocery 1,Convenience Store,Convenience store,false,4115 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.335381,-76.665176,24510151300,true
+1095332,7-Eleven Inc F 36009A,Convenience Store,Convenience store,false,855 N. Wolfe Street,Baltimore,21205,BALTIMORE CITY,39.299873,-76.590935,24510070400,true
+1196320,Kwick Penn Mart,Grocery Store,Small grocery,false,2338 Pennsylvania Ave,Baltimore,21217,BALTIMORE CITY,39.309006,-76.641281,24510150100,true
+1032654,Mcclean Rio,Convenience Store,Convenience store,false,7300 McClean Blvd,Parkville,21234,BALTIMORE CITY,39.372124,-76.567604,,false
+1261586,Drug City Pharmacy Llc,Other,Other,false,2805 North Point Rd,Dundalk,21222,BALTIMORE,39.279156,-76.489174,,false
+1305924,Cooley's Grocery,Grocery Store,Small grocery,false,2739 Ashland Ave,Baltimore,21205,BALTIMORE CITY,39.301083,-76.578316,24510070200,true
+1198778,Fast Stop Shop,Convenience Store,Convenience store,false,1023 E Lombard St,Baltimore,21202,BALTIMORE CITY,39.28931,-76.601547,24510030200,true
+1199058,Md Mini Mart,Convenience Store,Convenience store,false,317 Sollers Point Rd,Dundalk,21222,BALTIMORE,39.244125,-76.509682,,false
+766737,ISLAND FOOD MARKET,Grocery Store,Small grocery,false,5318 Park Heights Ave,Baltimore,21215,BALTIMORE CITY,39.35004,-76.680504,24510271801,true
+1200782,Foodways Market,Grocery Store,Small grocery,false,1000 Dundalk Ave,Baltimore,21224,BALTIMORE CITY,39.282497,-76.536362,24510260501,true
+798356,7-Eleven Inc F 23753,Convenience Store,Convenience store,false,4000 Ritchie Hwy,Brooklyn,21225,ANNE ARUNDEL,39.233727,-76.612305,,false
+1228338,Jr Food Market and Deli,Convenience Store,Convenience store,false,2938 Westwood Ave,Baltimore,21216,BALTIMORE CITY,39.308254,-76.667336,24510150600,true
+1067172,Rightway Food Mart,Convenience Store,Convenience store,false,2910 Harford Rd,Baltimore,21218,BALTIMORE CITY,39.323505,-76.587975,24510090600,true
+1028355,7-Eleven Inc F 23703C,Convenience Store,Convenience store,false,9410 Harford Rd,Parkville,21234,BALTIMORE,39.392933,-76.526245,,false
+1047222,Security BP,Convenience Store,Convenience store,false,6698 Security Blvd,Gwynn Oak,21207,BALTIMORE,39.312107,-76.740318,,false
+1075881,Chang's Food Mart,Convenience Store,Convenience store,false,1540 N Bond St,Baltimore,21213,BALTIMORE CITY,39.308338,-76.59687,24510080700,true
+1678595,Morrell Park Convenience,Convenience Store,Convenience store,false,2527 Washington Blvd,Baltimore,21230,BALTIMORE CITY,39.266052,-76.652718,24510250303,true
+1190038,Garden Produce 1,Grocery Store,Small grocery,false,112 N Eutaw St,Baltimore,21201,BALTIMORE CITY,39.29113,-76.621254,24510040100,true
+800313,CARIBBEAN SUPERMARKET,Supermarket,Full-service grocery,true,8040 Liberty Rd,Windsor Mill,21244,BALTIMORE,39.353409,-76.757225,,false
+893902,7-Eleven 32907,Convenience Store,Convenience store,false,321 York Rd,Towson,21204,BALTIMORE,39.399235,-76.602776,,false
+1126025,Y & K Market,Convenience Store,Convenience store,false,2201 Harford Rd,Baltimore,21218,BALTIMORE CITY,39.31514,-76.596909,24510080500,true
+1532153,Nottingham Shell,Other,Other,false,7533 Belair Rd,Nottingham,21236,BALTIMORE,39.363934,-76.519791,,false
+808755,Steakhouse Food Market,Convenience Store,Convenience store,false,5023 Ritchie Hwy,Brooklyn,21225,ANNE ARUNDEL,39.224682,-76.613495,,false
+829040,Eagle Mart,Convenience Store,Convenience store,false,3101 Pulaski Hwy,Baltimore,21224,BALTIMORE CITY,39.295494,-76.573051,24510060100,true
+1131914,Graul's Market,Super Store,Full-service grocery,true,7713 Bellona Ave,Towson,21204,BALTIMORE,39.398697,-76.645096,,false
+963451,7-Eleven Inc F 34195 A,Convenience Store,Convenience store,false,1020 Park Avenue,Baltimore,21201,BALTIMORE CITY,39.30257,-76.619415,24510110200,true
+1245817,Yuan Zheng,Convenience Store,Convenience store,false,300 N Gilmor St,Baltimore,21223,BALTIMORE CITY,39.292252,-76.64283,24510190100,true
+1243466,7-Eleven 24164,Convenience Store,Convenience store,false,2500 Liberty Heights Ave,Baltimore,21215,BALTIMORE CITY,39.319752,-76.655655,24510150500,true
+1056220,Shoprite Of Perring Parkway,Super Store,Full-service grocery,true,2401 Cleanleigh Dr,Parkville,21234,BALTIMORE,39.372398,-76.56221,,false
+854906,7-Eleven 11551B,Convenience Store,Convenience store,false,4315 Annapolis Rd,Halethorpe,21227,BALTIMORE,39.234333,-76.640663,,false
+1453730,Liberty Food Mart,Convenience Store,Convenience store,false,3905 Liberty Heights Ave,Gwynn Oak,21207,BALTIMORE CITY,39.327141,-76.682892,24510151000,true
+1203450,Quick Stop Food Mart,Convenience Store,Convenience store,false,3301 E Joppa Rd,Parkville,21234,BALTIMORE,39.39447,-76.514412,,false
+1167863,7-Eleven 36784A,Convenience Store,Convenience store,false,7243 E Furnace Branch Road,Glen Burnie,21060,ANNE ARUNDEL,39.173367,-76.60556,,false
+1283493,Rohail Grocery,Convenience Store,Convenience store,false,2405 Washington Blvd,Baltimore,21230,BALTIMORE CITY,39.268055,-76.650276,24510250303,true
+1305300,At The Polish Table,Grocery Store,Small grocery,false,6208 Eastern Ave,Baltimore,21224,BALTIMORE CITY,39.28764,-76.542389,24510260501,true
+1702759,Bodeguita,Convenience Store,Convenience store,false,510 E Patapsco Ave,Baltimore,21225,BALTIMORE CITY,39.236832,-76.603371,24510250401,true
+849819,Waterman's Pride Seafood,Specialty Store,Specialty store,false,7692 Belair Rd,Nottingham,21236,BALTIMORE,39.367764,-76.518761,,false
+1228835,Royalty International Food Supermarket,Other,Other,false,5007 Harford Rd,Baltimore,21214,BALTIMORE CITY,39.347172,-76.565735,24510270302,true
+1534631,C Mart & Tobacco Shop,Convenience Store,Convenience store,false,8039 Fort Smallwood Rd,Curtis Bay,21226,ANNE ARUNDEL,39.168606,-76.530891,,false
+1622729,Hat Mart,Convenience Store,Convenience store,false,445 E Fort Ave,Baltimore,21230,BALTIMORE CITY,39.27272,-76.606873,24510240400,true
+1647991,Quick Mart Arbutus,Convenience Store,Convenience store,false,4045 Wilkens Ave,Baltimore,21229,BALTIMORE,39.267532,-76.688576,,false
+1584666,7-eleven 34259c,Convenience Store,Convenience store,false,529 N Charles Street,Baltimore,21201,BALTIMORE CITY,39.296181,-76.615349,24510110200,true
+864027,A1 Deli & Grocery,Convenience Store,Convenience store,false,620 N Eutaw St,Baltimore,21201,BALTIMORE CITY,39.296089,-76.621384,24510170100,true
+1258787,7-eleven 18623b,Convenience Store,Convenience store,false,6350 Frederick Rd,Catonsville,21228,BALTIMORE,39.275669,-76.717072,,false
+1093245,Wilkens Market,Convenience Store,Convenience store,false,1722 Wilkens Ave,Baltimore,21223,BALTIMORE CITY,39.282738,-76.644661,24510190300,true
+735857,LANVALE GROCERY & DELI,Convenience Store,Convenience store,false,1950 W Lanvale St,Baltimore,21217,BALTIMORE CITY,39.297527,-76.649033,24510160400,true
+1561923,Four Brothers Deli Market,Convenience Store,Convenience store,false,3123 Elmora Ave,Baltimore,21213,BALTIMORE CITY,39.315701,-76.579811,24510080102,true
+1303528,Frederick Bp,Convenience Store,Convenience store,false,3333 Frederick Ave,Baltimore,21229,BALTIMORE CITY,39.280998,-76.672958,24510200800,true
+1682055,Ocean Convenience 1,Convenience Store,Convenience store,false,3737 Falls Rd,Baltimore,21211,BALTIMORE CITY,39.333824,-76.63559,24510130700,true
+952734,Neima Halal Market,Grocery Store,Small grocery,false,226 S Broadway,Baltimore,21231,BALTIMORE CITY,39.288437,-76.593788,24510030100,true
+1101209,7-Eleven 21054D,Convenience Store,Convenience store,false,5920 Pulaski Hwy,Baltimore,21205,BALTIMORE CITY,39.302338,-76.546867,24510260401,true
+1065402,Carroll Mart,Convenience Store,Convenience store,false,900 Taylor Ave,Towson,21286,BALTIMORE,39.38652,-76.578072,,false
+1584288,Charlies Corner,Convenience Store,Convenience store,false,2601 E Madison St,Baltimore,21205,BALTIMORE CITY,39.299786,-76.580742,24510070200,true
+1684666,Mega International,Convenience Store,Convenience store,false,7214 Windsor Mill Rd,Windsor Mill,21244,BALTIMORE,39.337914,-76.753578,,false
+731597,Corona Grocery,Grocery Store,Small grocery,false,3520 E Lombard St,Baltimore,21224,BALTIMORE CITY,39.291401,-76.568268,24510260800,true
+1159810,Liberty Deli & Grocery,Convenience Store,Convenience store,false,3834 Liberty Heights Ave,Baltimore,21215,BALTIMORE CITY,39.327145,-76.681488,24510151000,true
+1310891,New Shop Express,Convenience Store,Convenience store,false,5010 Frederick Ave,Baltimore,21229,BALTIMORE CITY,39.281414,-76.697365,24510280403,true
+1184054,Patel Brothers,Other,Other,false,6504 Baltimore National Pike,Catonsville,21228,BALTIMORE,39.285694,-76.761856,,false
+781206,ALL NATIONS INTERNATIONAL FOOD STORE,Other,Other,false,6401 Kenwood Ave,Rosedale,21237,BALTIMORE,39.337246,-76.504944,,false
+819463,Crab Depot,Specialty Store,Specialty store,false,5717 Ritchie Hwy,Brooklyn Park,21225,BALTIMORE CITY,39.217014,-76.614204,,false
+1310622,Sanaa Grocery and Deli,Convenience Store,Convenience store,false,2923 W Belvedere Ave,Baltimore,21215,BALTIMORE CITY,39.35112,-76.671844,24510271700,true
+1691467,7-eleven 22575F,Convenience Store,Convenience store,false,4918 Harford Rd,Baltimore,21214,BALTIMORE CITY,39.346684,-76.566704,24510270301,true
+1165122,Toms Deli Grocery,Convenience Store,Convenience store,false,701 Mckewin Ave,Baltimore,21218,BALTIMORE CITY,39.332813,-76.605942,24510090300,true
+1209546,STREETS MARKET 4,Supermarket,Full-service grocery,true,222 N Charles St,Baltimore,21201,BALTIMORE CITY,39.291328,-76.615288,24510040100,true
+1637461,Fenwick Choice Meats,Specialty Store,Specialty store,false,1065 S Charles Street,Baltimore,21230,BALTIMORE CITY,39.276878,-76.612778,24510230200,true
+1118683,7-eleven Store 33685C,Convenience Store,Convenience store,false,22 Light Street,Baltimore,21202,BALTIMORE CITY,39.288475,-76.613724,24510040100,true
+796011,W & L Kosher Meats,Specialty Store,Specialty store,false,7006 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.362431,-76.711967,,false
+840397,Citgo Gas Station,Convenience Store,Convenience store,false,2001 Orleans St,Baltimore,21231,BALTIMORE CITY,39.295113,-76.588867,24510060400,true
+1296246,Farm Alliance Of Baltimore,Farmers and Markets,Farmers market,false,400 E 32nd St,Baltimore,21218,BALTIMORE CITY,39.327179,-76.610977,24510120201,true
+1259206,Quik Mart,Convenience Store,Convenience store,false,2109 W Patapsco Ave,Baltimore,21230,BALTIMORE CITY,39.250694,-76.643753,24510250205,true
+1573455,Ace Liquors & Grocery,Convenience Store,Convenience store,false,500 Maude Ave,Brooklyn,21225,BALTIMORE CITY,39.23904,-76.602524,24510250401,true
+1225845,Roland Park Exxon,Convenience Store,Convenience store,false,5425 Falls Road Ter,Baltimore,21210,BALTIMORE CITY,39.361141,-76.646103,24510271300,true
+901028,Lucky's Superette,Convenience Store,Convenience store,false,4409 Annapolis Rd,Halethorpe,21227,BALTIMORE,39.233196,-76.641212,,false
+757832,BROOKDALE FARM,Specialty Store,Specialty store,false,112 N Eutaw St,Baltimore,21201,BALTIMORE CITY,39.291077,-76.621719,24510040100,true
+739820,PACKAGE DEALS PLUS LLC,Specialty Store,Specialty store,false,2830 S Hanover St,Baltimore,21225,BALTIMORE CITY,39.253895,-76.617523,24510250203,true
+1228512,Sea Pride Crabhouse,Specialty Store,Specialty store,false,1853 W Pratt St,Baltimore,21223,BALTIMORE CITY,39.285133,-76.646538,24510190300,true
+1672059,Al Hemyari Plus Inc,Grocery Store,Small grocery,false,1001 W Cross St,Baltimore,21230,BALTIMORE CITY,39.28056,-76.629723,24510210100,true
+1229640,Winner's Int'l Food Mkt,Grocery Store,Small grocery,false,4913A Belair Rd,Baltimore,21206,BALTIMORE CITY,39.334854,-76.556297,24510260201,true
+1675257,Afreen & Tasnim Inc,Convenience Store,Convenience store,false,2100 E Monument St,Baltimore,21205,BALTIMORE CITY,39.298798,-76.587631,24510070300,true
+1177712,APNA Desh Grocery Store 1,Grocery Store,Small grocery,false,8300A Pulaski Hwy,Rosedale,21237,BALTIMORE,39.323181,-76.503044,,false
+1632853,Ez Convenience,Convenience Store,Convenience store,false,8104A Loch Raven Blvd,Towson,21286,BALTIMORE,39.386635,-76.576317,,false
+1634948,Perkins,Convenience Store,Convenience store,false,1501 Bank St,Baltimore,21231,BALTIMORE CITY,39.286278,-76.596657,24510030100,true
+1685437,Judy's Island Grill II,Restaurant Meals Program,Other,false,800 Crain Hwy N,Glen Burnie,21061,ANNE ARUNDEL,39.176476,-76.618347,,false
+1626359,Family Food Mart 1,Convenience Store,Convenience store,false,5129 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.342979,-76.682999,24510271802,true
+1024834,York Road Mobil,Convenience Store,Convenience store,false,6411 York Rd,Baltimore,21212,BALTIMORE,39.374062,-76.609306,,false
+829471,Dakao Market,Convenience Store,Convenience store,false,3347 Belair Rd,Baltimore,21213,BALTIMORE CITY,39.322277,-76.572716,24510260301,true
+1545419,"Burger King #10294",Restaurant Meals Program,Other,false,1241 Orleans St,Baltimore,21202,BALTIMORE CITY,39.294674,-76.600319,24510280500,true
+866519,Tropical Supermarket,Grocery Store,Small grocery,false,5208 Baltimore National Pike,Baltimore,21229,BALTIMORE CITY,39.292763,-76.714783,,false
+1262767,Belly Busters Deli,Convenience Store,Convenience store,false,2101 E Monument St,Baltimore,21205,BALTIMORE CITY,39.298603,-76.587517,24510070300,true
+1669771,Superfresh Supermarket,Super Store,Full-service grocery,true,1205 W Pratt St,Baltimore,21223,BALTIMORE CITY,39.284378,-76.635475,24510210200,true
+1666187,Tiger Market,Super Store,Full-service grocery,true,2495 Frederick Ave,Baltimore,21223,BALTIMORE CITY,39.283012,-76.653473,24510200500,true
+1559879,Juneway Mini Mart,Convenience Store,Convenience store,false,3400 Juneway,Baltimore,21213,BALTIMORE CITY,39.318127,-76.569504,24510260302,true
+1559225,Guzman Grocery & Deli,Convenience Store,Convenience store,false,1245 N Patterson Park Ave,Baltimore,21213,BALTIMORE CITY,39.305611,-76.585327,24510080400,true
+1022089,Ray Convenience Store,Convenience Store,Convenience store,false,714 Church St,Brooklyn,21225,ANNE ARUNDEL,39.220936,-76.599419,,false
+1558691,Raven Mart,Convenience Store,Convenience store,false,900 N Bentalou St,Baltimore,21216,BALTIMORE CITY,39.298679,-76.653725,24510160500,true
+1347068,Quick Mart Windsor Mill,Convenience Store,Convenience store,false,7410 Windsor Mill Rd,Windsor Mill,21244,BALTIMORE,39.341522,-76.76165,,false
+1701518,Grocery Outlet Of Milford Mill 757,Supermarket,Full-service grocery,true,3602 Milford Mill Rd,Windsor Mill,21244,BALTIMORE,39.355049,-76.758736,,false
+1560029,Razan 540 Convenient Llc,Convenience Store,Convenience store,false,540 N Milton Ave,Baltimore,21205,BALTIMORE CITY,39.297615,-76.582466,24510070200,true
+1689739,24/7 Tobacco Heaven & Grocery 1,Convenience Store,Convenience store,false,1241 W Baltimore St,Baltimore,21223,BALTIMORE CITY,39.28838,-76.637985,24510180300,true
+1561490,F&J Grocery And Snack Shop,Convenience Store,Convenience store,false,1345 Poplar Grove St,Baltimore,21216,BALTIMORE CITY,39.303391,-76.665169,24510160700,true
+1654629,Harris Teeter 376,Super Store,Full-service grocery,true,1801 Whetstone Way,Baltimore,21230,BALTIMORE CITY,39.268059,-76.600067,24510240100,true
+1570818,7-Eleven 41975H,Convenience Store,Convenience store,false,7102 Ritchie Hwy,Glen Burnie,21061,ANNE ARUNDEL,39.181622,-76.614624,,false
+1568262,City Mart,Convenience Store,Convenience store,false,3624 Edmondson Ave,Baltimore,21229,BALTIMORE CITY,39.294216,-76.678261,24510160802,true
+1569732,Holiday Food Mart,Convenience Store,Convenience store,false,234 Holliday St,Baltimore,21202,BALTIMORE CITY,39.292278,-76.610649,24510040100,true
+1585526,S&r Grocery Store,Convenience Store,Convenience store,false,1608 E Lafayette Ave,Baltimore,21213,BALTIMORE CITY,39.310795,-76.596306,24510080600,true
+1585548,Ez Pass Convenient,Grocery Store,Small grocery,false,400 S Payson St,Baltimore,21223,BALTIMORE CITY,39.282635,-76.64859,24510200300,true
+1588617,Asian Market,Supermarket,Full-service grocery,true,900 Leeds Ave,Baltimore,21229,BALTIMORE,39.267441,-76.689369,,false
+604722,7-eleven 11536,Other,Other,false,1114 Ingleside Ave,Gwynn Oak,21207,BALTIMORE,39.293896,-76.730339,,false
+1601947,Aljaboobi Marke,Convenience Store,Convenience store,false,1001 E Lombard St,Baltimore,21202,BALTIMORE CITY,39.28912,-76.60215,24510030200,true
+1595430,Easy Grocery And Tobacco Mart 1,Convenience Store,Convenience store,false,4328 Erdman Ave,Baltimore,21213,BALTIMORE CITY,39.311073,-76.564064,24510260303,true
+1605472,Stall 21,Specialty Store,Specialty store,false,119 N Paca St,Baltimore,21201,BALTIMORE CITY,39.290909,-76.62233,24510040100,true
+1604563,Us Gas,Convenience Store,Convenience store,false,2810 Hammonds Ferry Rd,Halethorpe,21227,BALTIMORE,39.24213,-76.665611,,false
+1601986,Razan Tasty Deli Grocery,Convenience Store,Convenience store,false,606 N Eutaw St,Baltimore,21201,BALTIMORE CITY,39.296165,-76.621513,24510170100,true
+1600382,Greenmount Mini Market,Convenience Store,Convenience store,false,3226 Greenmount Ave,Baltimore,21218,BALTIMORE CITY,39.328049,-76.609787,24510120201,true
+1605591,Frankford Shell,Convenience Store,Convenience store,false,5330 Frankford Ave,Baltimore,21206,BALTIMORE CITY,39.324268,-76.540367,24510260203,true
+1597593,Falls Deli and Grocery,Convenience Store,Convenience store,false,4300 Falls Rd,Baltimore,21211,BALTIMORE CITY,39.34108,-76.639801,24510130803,true
+1607480,Zyfok Empire African Food Groceries And Clothing 1,Grocery Store,Small grocery,false,7039 Liberty Rd,Gwynn Oak,21207,BALTIMORE,39.344395,-76.73407,,false
+1597935,7 Mart,Grocery Store,Small grocery,false,1417 E Fayette St,Baltimore,21231,BALTIMORE CITY,39.292767,-76.598022,24510030100,true
+1604572,Carroll Mart,Convenience Store,Convenience store,false,3505 Pulaski Hwy,Baltimore,21224,BALTIMORE CITY,39.296024,-76.5681,24510260404,true
+1609671,Harford Rd Sunoco,Convenience Store,Convenience store,false,8401 Harford Rd,Parkville,21234,BALTIMORE,39.38039,-76.536606,,false
+1613147,Taylor Gas & Go,Convenience Store,Convenience store,false,1701 Taylor Ave,Parkville,21234,BALTIMORE,39.381355,-76.56105,,false
+1605055,Shons Food Market,Convenience Store,Convenience store,false,4709 Garrison Blvd,Baltimore,21215,BALTIMORE CITY,39.340263,-76.683678,24510151000,true
+1635856,Maru Grocery Store,Convenience Store,Convenience store,false,3233 Belair Rd,Baltimore,21213,BALTIMORE CITY,39.32127,-76.573914,24510080102,true
+1610629,Bargain Outlet,Convenience Store,Convenience store,false,4506 Erdman Ave,Baltimore,21213,BALTIMORE CITY,39.309887,-76.563255,24510260303,true
+1605170,Oniyabode African Market,Grocery Store,Small grocery,false,1808 Woodlawn Dr,Gwynn Oak,21207,BALTIMORE,39.316513,-76.737862,,false
+1633633,Marathon,Convenience Store,Convenience store,false,1613 E Joppa Rd,Towson,21286,BALTIMORE,39.396496,-76.566269,,false
+1602435,Five Brother Convenience,Convenience Store,Convenience store,false,801 N Glover St,Baltimore,21205,BALTIMORE CITY,39.300323,-76.580116,24510070200,true
+1641446,Sonaimuri Convenience,Convenience Store,Convenience store,false,1956 W Fayette St,Baltimore,21223,BALTIMORE CITY,39.289593,-76.648613,24510200100,true
+1615770,Triple Fam,Convenience Store,Convenience store,false,847 Park Ave,Baltimore,21201,BALTIMORE CITY,39.300308,-76.618378,24510110200,true
+1616763,Mhs Tobacco & Convenience,Convenience Store,Convenience store,false,8001 Pulaski Hwy,Rosedale,21237,BALTIMORE,39.318867,-76.510941,,false
+1360036,Quick Mart Trappe Road,Convenience Store,Convenience store,false,300 Trappe Rd,Dundalk,21222,BALTIMORE,39.272606,-76.494507,,false
+1617781,"KFC #G135314",Restaurant Meals Program,Other,false,708 Nursery Rd,Linthicum Heights,21090,ANNE ARUNDEL,39.224636,-76.658012,,false
+1621765,One Stop Tobacco & Convenience 1,Convenience Store,Convenience store,false,3521 Dolfield Ave,Baltimore,21215,BALTIMORE CITY,39.334469,-76.674118,24510151100,true
+1295339,"Quick Mart # 8",Convenience Store,Convenience store,false,106 Wise Ave,Dundalk,21222,BALTIMORE,39.263226,-76.483887,,false
+1617196,Loudon Convenience And Tobacco 1,Convenience Store,Convenience store,false,3939 Edmondson Ave,Baltimore,21229,BALTIMORE CITY,39.293465,-76.682434,24510200701,true
+1616346,SNW Petroleum LLC 1,Convenience Store,Convenience store,false,201 E Joppa Rd,Towson,21286,BALTIMORE,39.401711,-76.599342,,false
+1612939,Sara Food Mart LLC,Grocery Store,Small grocery,false,403 S Conkling St,Baltimore,21224,BALTIMORE CITY,39.287472,-76.566917,24510260900,true
+1228850,Aa & Adam,Convenience Store,Convenience store,false,4160 Pimlico Rd,Baltimore,21215,BALTIMORE CITY,39.337231,-76.663071,24510151300,true
+1610267,Romans Food Market,Grocery Store,Small grocery,false,931 E 22nd St,Baltimore,21218,BALTIMORE CITY,39.314003,-76.60553,24510090800,true
+1618166,H & P Deli,Convenience Store,Convenience store,false,3859 Elmley Ave,Baltimore,21213,BALTIMORE CITY,39.31773,-76.563751,24510260302,true
+1662682,Grocery Outlet Of Milford Mill 757,Supermarket,Full-service grocery,true,3602 Milford Mill Rd,Windsor Mill,21244,BALTIMORE,39.355049,-76.758736,,false
+1211996,Patterson Carroll Motor Fuel,Convenience Store,Convenience store,false,4101 Patterson Ave,Baltimore,21215,BALTIMORE CITY,39.355782,-76.70256,24510280101,true
+1620005,Loch Raven Sunoco,Convenience Store,Convenience store,false,6901 Loch Raven Blvd,Towson,21286,BALTIMORE,39.385571,-76.575706,,false
+1608063,Badan Grocery,Grocery Store,Small grocery,false,1001 N Broadway,Baltimore,21205,BALTIMORE CITY,39.301991,-76.594162,24510080800,true
+1618509,Mega Tobacco And Convenience,Convenience Store,Convenience store,false,5211 York Rd,Baltimore,21212,BALTIMORE CITY,39.35302,-76.609314,24510271002,true
+1613872,Big Apple Mart,Convenience Store,Convenience store,false,3133 W North Ave,Baltimore,21216,BALTIMORE CITY,39.308739,-76.670448,24510150600,true
+1618923,Patty Shop,Convenience Store,Convenience store,false,2801 W Lafayette Ave,Baltimore,21216,BALTIMORE CITY,39.297955,-76.662987,24510160600,true
+1612618,Nursery Gas And Convenience Store,Convenience Store,Convenience store,false,723 Nursery Rd,Linthicum Heights,21090,ANNE ARUNDEL,39.224117,-76.66011,,false
+1610320,3 Stars Tobacco And Convenience Store 1,Convenience Store,Convenience store,false,1852 W Fayette St,Baltimore,21223,BALTIMORE CITY,39.28968,-76.646873,24510200100,true
+1616780,C-Mart,Convenience Store,Convenience store,false,6700 Brentwood Ave,Dundalk,21222,BALTIMORE CITY,39.272999,-76.530685,24510260605,true
+1620496,Catonsville African Market,Other,Other,false,6350 Frederick Rd,Catonsville,21228,BALTIMORE,39.27607,-76.717232,,false
+1619088,Paradise Mart,Convenience Store,Convenience store,false,6214 Eastern Ave,Baltimore,21224,BALTIMORE CITY,39.28783,-76.542091,24510260501,true
+1619376,24/7 Snackers,Convenience Store,Convenience store,false,1111 Light St,Baltimore,21230,BALTIMORE CITY,39.276749,-76.611473,24510240300,true
+1618879,Surtimax,Grocery Store,Small grocery,false,5005 Ritchie Hwy,Brooklyn,21225,ANNE ARUNDEL,39.224701,-76.612534,,false
+1681247,A-z Food Mart,Convenience Store,Convenience store,false,3601 Park Heights Ave,Baltimore,21215,BALTIMORE CITY,39.329651,-76.658775,24510151200,true
+1194639,Wishful Grocery & Deli,Convenience Store,Convenience store,false,1601 N Smallwood St,Baltimore,21216,BALTIMORE CITY,39.306553,-76.652473,24510150300,true
+945528,32nd Street Farmers Market,Farmers and Markets,Farmers market,false,400 E 32nd St,Baltimore,21218,BALTIMORE CITY,39.327179,-76.610977,24510120201,true
+1626074,International Grocery & Halal Meat Inc,Grocery Store,Small grocery,false,3312 Greenmount Ave,Baltimore,21218,BALTIMORE CITY,39.328869,-76.609505,24510120201,true
+1621860,Highland Town Mini Mart LLC,Convenience Store,Convenience store,false,100 S Conkling St,Baltimore,21224,BALTIMORE CITY,39.290813,-76.567612,24510260800,true
+1626127,La Vicentina Mercado Latino Llc,Grocery Store,Small grocery,false,833 Nursery Rd,Linthicum Heights,21090,ANNE ARUNDEL,39.224319,-76.664871,,false
+1631813,Bismillah Mart,Grocery Store,Small grocery,false,3730 Edmondson Ave,Baltimore,21229,BALTIMORE CITY,39.294182,-76.679649,24510160802,true
+1623147,Marathon Ritchie Hwy,Convenience Store,Convenience store,false,5701 Ritchie Hwy,Brooklyn,21225,ANNE ARUNDEL,39.217533,-76.613831,,false
+1634268,King Dollar,Convenience Store,Convenience store,false,3905 Hollins Ferry Rd,Halethorpe,21227,BALTIMORE,39.242382,-76.649475,,false
+1656398,Liberty Grocery And Tobacco,Convenience Store,Convenience store,false,8141 Liberty Rd,Windsor Mill,21244,BALTIMORE,39.354832,-76.762344,,false
+1620572,Penn Mart,Convenience Store,Convenience store,false,1800 Pennsylvania Ave,Baltimore,21217,BALTIMORE CITY,39.304283,-76.635872,24510140300,true
+1630910,ALDI 41102,Supermarket,Full-service grocery,true,1503 N Bluff St,Fulton,21217,BALTIMORE CITY,39.306717,-76.635399,24510140300,true
+1626068,24/7 Camp Convenience Tobacco 1,Convenience Store,Convenience store,false,460 N Camp Meade Rd,Linthicum Heights,21090,ANNE ARUNDEL,39.214531,-76.644211,,false
+1653389,Belvedere Exxon,Convenience Store,Convenience store,false,5913 York Rd,Baltimore,21212,BALTIMORE CITY,39.364494,-76.60955,24510270805,true
+1408278,Noble African Market,Grocery Store,Small grocery,false,8642 Loch Raven Blvd,Towson,21286,BALTIMORE,39.396442,-76.563408,,false
+1637514,Belair Convenience,Convenience Store,Convenience store,false,4401 Belair Rd,Baltimore,21206,BALTIMORE CITY,39.329018,-76.563515,24510260202,true
+1615692,Josh Snacks & Grocery,Convenience Store,Convenience store,false,2000 Walbrook Ave,Baltimore,21217,BALTIMORE CITY,39.310974,-76.650131,24510150400,true
+1623278,Blue Crab Express,Other,Other,false,1020 W Patapsco Ave,Baltimore,21230,BALTIMORE CITY,39.247307,-76.636406,24510250205,true
+1626150,Carroll Mart N/A,Convenience Store,Convenience store,false,5320 York Rd,Baltimore,21212,BALTIMORE CITY,39.355286,-76.610115,24510271200,true
+1342388,Hamilton Quick Mart,Convenience Store,Convenience store,false,3407 Hamilton Ave,Baltimore,21214,BALTIMORE CITY,39.347588,-76.557205,24510270402,true
+1668321,Smart Market Llc,Convenience Store,Convenience store,false,916 N Broadway,Baltimore,21205,BALTIMORE CITY,39.301037,-76.594727,24510070400,true
+1664560,Discount Grocery Mart 1,Convenience Store,Convenience store,false,2111 W Pratt St,Baltimore,21223,BALTIMORE CITY,39.284851,-76.650284,24510200500,true
+1665365,Dolfield Food Mart,Convenience Store,Convenience store,false,3611 Dolfield Ave,Baltimore,21215,BALTIMORE CITY,39.336212,-76.676239,24510151100,true
+1681688,7-Eleven 20234J,Convenience Store,Convenience store,false,8002 Belair Rd,Baltimore,21236,BALTIMORE,39.375408,-76.508118,,false
+1676548,La Rubia Latin Market,Grocery Store,Small grocery,false,2701 North Point Rd,Dundalk,21222,BALTIMORE,39.280224,-76.491615,,false
+624595,Liberty Food Market,Grocery Store,Small grocery,false,1205 Greenmount Ave,Baltimore,21202,BALTIMORE CITY,39.303951,-76.607727,24510100100,true
+1671570,III Guys Deli And Grocery Inc,Convenience Store,Convenience store,false,2331 Barclay St,Baltimore,21218,BALTIMORE CITY,39.316166,-76.611008,24510120400,true
+1681973,Ocean State Job Lot 654,Other,Other,false,6623 Governor Ritchie Hwy,Glen Burnie,21060,ANNE ARUNDEL,39.19593,-76.609909,,false
+1670204,Victors Deli And Convenience 1,Convenience Store,Convenience store,false,3100 Hammonds Ferry Rd,Halethorpe,21227,BALTIMORE,39.237137,-76.663345,,false
+1673532,J M Unlimited 1,Convenience Store,Convenience store,false,801 N Bentalou St,Baltimore,21216,BALTIMORE CITY,39.297169,-76.653038,24510160500,true
+683187,Mangers,Specialty Store,Specialty store,false,124 S Franklintown Rd,Baltimore,21223,BALTIMORE CITY,39.284927,-76.658745,24510200400,true
+1667446,Maria Mini Market & Carryout,Convenience Store,Convenience store,false,3039 E Monument St,Baltimore,21205,BALTIMORE CITY,39.299023,-76.573929,24510070100,true
+1671725,Deli & Grocery Super 24,Grocery Store,Small grocery,false,5006 Ritchie Hwy,Brooklyn,21225,ANNE ARUNDEL,39.224461,-76.613869,,false
+1677042,Royal Farms 404,Convenience Store,Convenience store,false,5671 Belair Rd,Baltimore,21206,BALTIMORE CITY,39.341724,-76.545967,24510260102,true
+1698547,K&d Tobacco Store,Convenience Store,Convenience store,false,2833 Hillen Rd,Baltimore,21218,BALTIMORE CITY,39.324093,-76.588188,24510090600,true
+1653748,Quick Family Mart 1,Convenience Store,Convenience store,false,200 N Monastery Ave,Baltimore,21229,BALTIMORE CITY,39.289436,-76.67485,24510200701,true
+1693398,Rj Convenience 1,Convenience Store,Convenience store,false,3000 Arunah Ave,Baltimore,21216,BALTIMORE CITY,39.2953,-76.666885,24510160600,true
+1152946,University Deli,Convenience Store,Convenience store,false,2101 E Monument St,Baltimore,21205,BALTIMORE CITY,39.298092,-76.587532,24510070300,true
+1697360,4 Guys Deli Mart LLC,Convenience Store,Convenience store,false,1543 Poplar Grove St,Baltimore,21216,BALTIMORE CITY,39.305859,-76.665352,24510160700,true
+1664705,Michael's Pizza and Subs,Restaurant Meals Program,Other,false,1914 Edison Hwy,Baltimore,21213,BALTIMORE CITY,39.313957,-76.573616,24510080200,true
+1677040,Royal Farms 442,Convenience Store,Convenience store,false,2 Philadelphia Ct,Rosedale,21237,BALTIMORE,39.338306,-76.489731,,false
+1671781,Mar Trading,Convenience Store,Convenience store,false,2834 Edmondson Ave,Baltimore,21223,BALTIMORE CITY,39.294636,-76.66468,24510160600,true
+1675008,Timun Islam,Convenience Store,Convenience store,false,5143 Park Heights Ave,Baltimore,21215,BALTIMORE CITY,39.349003,-76.6754,24510271700,true
+1680424,York Convenience 1,Convenience Store,Convenience store,false,1725 Pennsylvania Ave,Baltimore,21217,BALTIMORE CITY,39.304169,-76.635071,24510140200,true
+1680970,Bgr Food & Grocery,Convenience Store,Convenience store,false,1520 W North Ave,Baltimore,21217,BALTIMORE CITY,39.310581,-76.642197,24510130300,true
+1674524,R&z Convenience And Tobacco Llc,Convenience Store,Convenience store,false,1241 N Decker Ave,Baltimore,21213,BALTIMORE CITY,39.306019,-76.574745,24510080302,true
+1476193,Cliftmont Market,Convenience Store,Convenience store,false,3501 Cliftmont Ave,Baltimore,21213,BALTIMORE CITY,39.31913,-76.565834,24510260302,true
+1668402,Branch Ave Convenience Mini Mart 1,Convenience Store,Convenience store,false,3225 Belair Rd,Baltimore,21213,BALTIMORE CITY,39.321053,-76.57399,24510080102,true
+1676018,Highland Convenience,Convenience Store,Convenience store,false,200 N Highland Ave,Baltimore,21224,BALTIMORE CITY,39.295326,-76.569984,24510261000,true
+1675456,Payson Mini Mart,Convenience Store,Convenience store,false,1545 N Payson St,Baltimore,21217,BALTIMORE CITY,39.306435,-76.649422,24510150200,true
+1691373,Shuv Shree Ganpati Inc 1,Convenience Store,Convenience store,false,417 W Mulberry St,Baltimore,21201,BALTIMORE CITY,39.293694,-76.622169,24510040100,true
+1675623,Sdm Grocery Llc,Convenience Store,Convenience store,false,2001 W Pratt St,Baltimore,21223,BALTIMORE CITY,39.284889,-76.648621,24510200300,true
+681452,Oakmont Confectionary,Convenience Store,Convenience store,false,3630 Oakmont Ave,Baltimore,21215,BALTIMORE CITY,39.343594,-76.677116,24510271802,true
+1681571,Dolfield Food Market,Convenience Store,Convenience store,false,3541 Dolfield Ave,Baltimore,21215,BALTIMORE CITY,39.334976,-76.674751,24510151100,true
+1679123,7-Eleven 35316J,Convenience Store,Convenience store,false,2830 S Hanover St,Baltimore,21225,BALTIMORE CITY,39.253887,-76.617401,24510250203,true
+1677681,Pizza Man And Food Zone 1,Convenience Store,Convenience store,false,4340 Reisterstown Rd,Baltimore,21215,BALTIMORE CITY,39.338512,-76.668182,24510151300,true
+1589234,Kenan Grocery Store,Convenience Store,Convenience store,false,2236 N Fulton Ave,Baltimore,21217,BALTIMORE CITY,39.314114,-76.645439,24510130400,true
+1690129,Sunny Mini Mart Inc,Convenience Store,Convenience store,false,3717 Greenmount Ave,Baltimore,21218,BALTIMORE CITY,39.334373,-76.609276,24510090300,true
+1683823,Apple 2 Mini Mart,Convenience Store,Convenience store,false,38 E 25th St,Baltimore,21218,BALTIMORE CITY,39.31813,-76.615585,24510120600,true
+1685441,Judy's Island Grill Canton,Restaurant Meals Program,Other,false,2300 Boston St,Baltimore,21224,BALTIMORE CITY,39.283237,-76.584343,24510010400,true
+1689155,All Halal Meat And Groceries,Grocery Store,Small grocery,false,3551 Washington Blvd,Lansdowne,21227,BALTIMORE,39.25095,-76.666931,,false
+1688653,Alam & Sabina,Convenience Store,Convenience store,false,1711 Pennsylvania Ave,Baltimore,21217,BALTIMORE CITY,39.304012,-76.634636,24510140200,true
+1696304,Mi Bendicion Market,Convenience Store,Convenience store,false,1 W Patapsco Ave,Brooklyn,21225,BALTIMORE CITY,39.238461,-76.609924,24510250401,true
+1694654,Aaa Carryout And Grocery Llc,Convenience Store,Convenience store,false,451 E 22nd St,Baltimore,21218,BALTIMORE CITY,39.314327,-76.60965,24510120400,true
+1703544,B. Green Cash And Carry,Supermarket,Full-service grocery,true,1300 S Monroe St,Baltimore,21230,BALTIMORE CITY,39.274483,-76.64138,24510210200,true
+1680617,Saint Paul Mini Mart,Grocery Store,Small grocery,false,815 Saint Paul St,Baltimore,21202,BALTIMORE CITY,39.299248,-76.613998,24510110100,true
+1690049,Fayette Liquor,Convenience Store,Convenience store,false,1434 E Fayette St,Baltimore,21231,BALTIMORE CITY,39.293354,-76.597687,24510280500,true
+1688516,Jk Family Food Mart,Convenience Store,Convenience store,false,3635 Edmondson Ave,Baltimore,21229,BALTIMORE CITY,39.293655,-76.678223,24510200701,true
+1682488,Belair Rd Convenience 1,Convenience Store,Convenience store,false,6751 Windsor Mill Rd,Gwynn Oak,21207,BALTIMORE,39.328011,-76.737442,,false
+1696654,Sam's Club 6651,Super Store,Other,false,5702 Baltimore National Pike,Catonsville,21228,BALTIMORE,39.28928,-76.733192,,false
+1697996,Harbor Deli And Mart,Convenience Store,Convenience store,false,501 Saint Paul St,Baltimore,21202,BALTIMORE CITY,39.295483,-76.613472,24510110100,true
+1697111,Am Mini Mart & Deli,Grocery Store,Small grocery,false,2642 E Monument St,Baltimore,21205,BALTIMORE CITY,39.299133,-76.579628,24510070200,true
+1705301,Bakers Corner,Convenience Store,Convenience store,false,729 Baker St,Baltimore,21217,BALTIMORE CITY,39.306889,-76.641945,24510150100,true
+1693730,Midnight Mini Mart 1,Convenience Store,Convenience store,false,516 N Schroeder St,Baltimore,21223,BALTIMORE CITY,39.295029,-76.634377,24510160100,true
