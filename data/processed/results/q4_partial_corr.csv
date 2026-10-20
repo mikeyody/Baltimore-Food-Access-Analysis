@@ -1,0 +1,17 @@
+outcome,controlling_for,r,p_value,n
+Diabetes,none (raw correlation),0.21,0.003277323497486939,195
+Diabetes,income,0.151,0.03606621312752377,195
+Diabetes,income + age 65+,0.125,0.08436516703775353,195
+Diabetes,"INCOME vs outcome, controlling for distance",-0.749,4.0206434501493796e-36,195
+Obesity,none (raw correlation),0.168,0.018917120949939754,195
+Obesity,income,0.084,0.24171377272024042,195
+Obesity,income + age 65+,0.087,0.2273374075383521,195
+Obesity,"INCOME vs outcome, controlling for distance",-0.777,2.088195065683882e-40,195
+High blood pressure,none (raw correlation),0.227,0.0014111969426959697,195
+High blood pressure,income,0.174,0.014956452238241012,195
+High blood pressure,income + age 65+,0.141,0.050034914756414216,195
+High blood pressure,"INCOME vs outcome, controlling for distance",-0.688,1.7085791893224002e-28,195
+Coronary heart disease,none (raw correlation),0.229,0.0012828639372649707,195
+Coronary heart disease,income,0.178,0.013276913420410279,195
+Coronary heart disease,income + age 65+,0.143,0.04795009345777076,195
+Coronary heart disease,"INCOME vs outcome, controlling for distance",-0.698,1.1281935658751723e-29,195

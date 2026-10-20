@@ -1,0 +1,6 @@
+sort,definition,basis,tracts_flagged,tracts_total,pct_of_tracts,residents,pct_of_residents,households_no_vehicle,residents_65_plus
+1,"USDA 2019 (LRAM): low-income & low-access, 1/2 mile",USDA official; 2019 supermarket list; crosswalked 2010->2020,91,199,45.7,293835,51.3,32993,46784
+2,"USDA 2019 (LRAM): low-income & low-access, 1 mile",USDA official; 2019 supermarket list; crosswalked 2010->2020,14,199,7.0,50572,8.8,5703,8129
+3,Updated 2026: low-income & nearest full-service store > 1/2 mile,"USDA 2025 low-income flag + 2026 SNAP supermarkets, distance from population-weighted centroid",84,199,42.2,244920,42.7,33188,39389
+4,Updated 2026: low-income & nearest full-service store > 1 mile,"USDA 2025 low-income flag + 2026 SNAP supermarkets, distance from population-weighted centroid",12,199,6.0,31150,5.4,4286,5159
+5,"USDA 2025 (SRAM): low-income & low-access, 1/2 mile (any SNAP store)",USDA official; counts convenience/dollar stores as access,10,199,5.0,42857,7.5,2951,7425

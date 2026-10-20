@@ -1,0 +1,3 @@
+geoid,tract_name,total_population,reason
+24510100300,Census Tract 1003,2247,no households (group quarters); no poverty universe
+24510250600,Census Tract 2506,34,no CDC PLACES health estimates; fewer than 100 residents

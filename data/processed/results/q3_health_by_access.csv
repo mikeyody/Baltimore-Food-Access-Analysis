@@ -1,0 +1,7 @@
+sort,comparison,tract_group,tracts,residents,diabetes_mean,obesity_mean,high_bp_mean,chd_mean,diabetes_pop_weighted,obesity_pop_weighted,high_bp_pop_weighted,chd_pop_weighted,median_of_tract_incomes
+1,USDA 2019 low-income & low-access (1/2 mi),Low access,91,293835,17.53,42.35,45.22,7.4,17.16,41.75,44.78,7.29,52128.0
+1,USDA 2019 low-income & low-access (1/2 mi),Other tracts,107,279374,13.36,37.0,37.25,5.92,12.6,35.71,36.06,5.67,63681.0
+2,Nearest full-service store > 1/2 mi (2026),Low access,109,319709,16.12,40.17,42.64,7.0,15.69,39.52,42.16,6.87,55133.0
+2,Nearest full-service store > 1/2 mi (2026),Other tracts,89,253500,14.25,38.59,38.8,6.11,13.99,37.91,38.46,6.03,62643.0
+3,Low-income & nearest full-service store > 1/2 mi (2026),Low access,83,244886,18.13,43.1,45.93,7.68,17.48,42.19,45.09,7.47,49266.0
+3,Low-income & nearest full-service store > 1/2 mi (2026),Other tracts,115,328323,13.22,36.84,37.29,5.82,13.04,36.29,37.12,5.77,67308.0

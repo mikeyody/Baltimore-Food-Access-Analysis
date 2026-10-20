@@ -1,0 +1,11 @@
+need_rank,geoid,tract_name,total_population,dist_nearest_full_service_mi,nearest_full_service_store,pct_poverty,pct_households_no_vehicle,diabetes_pct,obesity_pct,high_bp_pct,median_household_income,access_pctile,health_pctile,poverty_pctile,no_car_pctile,combined_need
+1,24510280500,Census Tract 2805,2492,0.82,STREETS MARKET 4,66.52,81.33,29.8,54.7,59.0,19150.0,0.85,1.0,1.0,1.0,0.961
+2,24510100200,Census Tract 1002,2796,0.9,STREETS MARKET 4,47.78,75.71,24.4,51.9,54.4,24360.0,0.9,0.94,0.97,0.99,0.953
+3,24510080500,Census Tract 805,1543,0.88,FOOD DEPOT,51.91,59.5,27.4,51.7,57.6,27140.0,0.88,0.98,0.99,0.95,0.952
+4,24510250204,Census Tract 2502.04,4306,0.81,Megamart Supermarket,48.95,64.22,24.2,54.9,53.0,21016.0,0.84,0.94,0.98,0.97,0.932
+5,24510160300,Census Tract 1603,1628,0.7,ALDI 41102,41.39,72.9,25.4,47.4,56.4,18693.0,0.72,0.93,0.95,0.98,0.896
+6,24510100100,Census Tract 1001,1404,0.96,Save A Lot 277,34.24,60.05,22.3,45.8,52.3,21098.0,0.92,0.83,0.84,0.96,0.886
+7,24510271801,Census Tract 2718.01,2537,0.76,Harvest Fare,35.93,58.58,26.4,48.7,57.6,,0.76,0.96,0.87,0.95,0.885
+8,24510160500,Census Tract 1605,2942,1.03,Tiger Market,31.75,38.34,25.1,50.1,55.5,37396.0,0.95,0.95,0.8,0.72,0.857
+9,24510090700,Census Tract 907,2628,0.81,GIANT FOOD 303,35.65,37.76,26.1,51.4,56.1,44353.0,0.84,0.97,0.86,0.71,0.845
+10,24510160400,Census Tract 1604,1481,0.9,ALDI 41102,26.87,56.94,20.6,46.3,50.6,34089.0,0.9,0.8,0.72,0.92,0.837

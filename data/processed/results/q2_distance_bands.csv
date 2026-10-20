@@ -1,0 +1,4 @@
+distance_band,tracts,residents,households,households_no_vehicle,low_income_tracts
+0-0.5 mi,89,253500,117118,30469,66
+0.5-1 mi,97,284898,123130,33182,72
+over 1 mi,13,34845,15420,4499,12

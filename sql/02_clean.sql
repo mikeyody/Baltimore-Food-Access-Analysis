@@ -95,19 +95,19 @@ CREATE OR REPLACE TABLE clean.acs AS
 WITH typed AS (
     SELECT
         state || county || tract                  AS geoid,
-        census_num(B01003_001E)                   AS total_population,
+        CAST(census_num(B01003_001E) AS BIGINT)   AS total_population,
         census_num(B01003_001M)                   AS total_population_moe,
         census_num(B19013_001E)                   AS median_household_income,
         census_num(B19013_001M)                   AS median_household_income_moe,
-        census_num(B17001_001E)                   AS poverty_universe,
-        census_num(B17001_002E)                   AS below_poverty,
-        census_num(B08201_001E)                   AS households,
-        census_num(B08201_002E)                   AS households_no_vehicle,
+        CAST(census_num(B17001_001E) AS BIGINT)   AS poverty_universe,
+        CAST(census_num(B17001_002E) AS BIGINT)   AS below_poverty,
+        CAST(census_num(B08201_001E) AS BIGINT)   AS households,
+        CAST(census_num(B08201_002E) AS BIGINT)   AS households_no_vehicle,
         census_num(B08201_002M)                   AS households_no_vehicle_moe,
-        census_num(B01001_020E) + census_num(B01001_021E) + census_num(B01001_022E)
+        CAST(census_num(B01001_020E) + census_num(B01001_021E) + census_num(B01001_022E)
           + census_num(B01001_023E) + census_num(B01001_024E) + census_num(B01001_025E)
           + census_num(B01001_044E) + census_num(B01001_045E) + census_num(B01001_046E)
-          + census_num(B01001_047E) + census_num(B01001_048E) + census_num(B01001_049E)
+          + census_num(B01001_047E) + census_num(B01001_048E) + census_num(B01001_049E) AS BIGINT)
                                                   AS population_65_plus,
         B19013_001E                               AS raw_income_code
     FROM staging.census_acs
